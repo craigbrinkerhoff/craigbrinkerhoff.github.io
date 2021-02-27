@@ -1,0 +1,26 @@
+name: "Craig Brinkerhoff"
+output_dir: "."
+navbar:
+  title: "Craig Brinkerhoff"                             
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+  right:
+    - text: "Email"
+      icon: fa-envelope-o
+      href: mailto:cbrinkerhoff@umass.edu                    
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/craigbrinkerhoff
+    - text: "Google Scholar"
+      icon : fa-google
+      href: https://scholar.google.com/citations?user=PSOHzbQAAAAJ&hl=en
+    - text: "CV"
+      icon: fa-CV
+      href: CV_Brinkerhoff.pdf
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate

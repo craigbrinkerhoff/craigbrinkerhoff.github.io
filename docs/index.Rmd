@@ -1,14 +1,12 @@
 ---
-title: "Craig Brinkerhoff"
+title: ""
 output: html_document
 ---
 
 
-My name is Craig Brinkerhoff and I am a PhD candidate in the [Fluvial@UMass group](https://blogs.umass.edu/cjgleason/) at the University of Massachusetts, Amherst. My interests are in large-to-global scale modeling and remote sensing of river hydrology and biogeochemistry.
+My name is Craig Brinkerhoff (he/him) and I am a PhD candidate in the [Fluvial@UMass group](https://blogs.umass.edu/cjgleason/) in Civil/Environmental Engineering at the University of Massachusetts, Amherst. My interests are in large-to-global scale modeling and remote sensing of river hydrology and biogeochemistry.
+
+I spend my spare time on music (mostly mandolin), single-origins, trail running, and cycling.
 
 <center>
-![](headshot2_crop.png) </center>
-
-[CV](https://craigbrinkerhoff.github.io/docs/CV_Brinkerhoff.pdf)
-
-I can be reached at cbrinkerhoff[at]umass[edu].
+![](github_photo.jpg) </center>
