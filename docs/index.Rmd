@@ -4,4 +4,11 @@ output: html_document
 ---
 
 
-My name is Craig Brinkerhoff
+My name is Craig Brinkerhoff and I am a PhD candidate in the [Fluvial@UMass group](https://blogs.umass.edu/cjgleason/) at the University of Massachusetts, Amherst. My interests are in large-to-global scale modeling and remote sensing of river hydrology and biogeochemistry.
+
+<center>
+![](headshot2_crop.png) </center>
+
+![CV](https://github.com/craigbrinkerhoff/craigbrinkerhoff.github.io/blob/main/CV_Brinkerhoff.pdf)
+
+I can be reached at cbrinkerhoff[at]umass[edu].

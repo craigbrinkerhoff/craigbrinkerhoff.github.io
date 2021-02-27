@@ -8,7 +8,7 @@ This is the repository for my github pages webiste (https:craigbrinkerhoff.githu
 
 
 
-####to compile site (so I don't forget!)
+#### to compile site (so I don't forget!)
 ```
 rmarkdown::render_site()
 ```
