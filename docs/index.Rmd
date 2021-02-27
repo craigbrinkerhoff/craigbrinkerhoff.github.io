@@ -9,6 +9,6 @@ My name is Craig Brinkerhoff and I am a PhD candidate in the [Fluvial@UMass grou
 <center>
 ![](headshot2_crop.png) </center>
 
-[CV](https://craigbrinkerhoff.github.io/CV_Brinkerhoff.pdf)
+[CV](https://craigbrinkerhoff.github.io/docs/CV_Brinkerhoff.pdf)
 
 I can be reached at cbrinkerhoff[at]umass[edu].
