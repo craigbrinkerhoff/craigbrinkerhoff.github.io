@@ -2,12 +2,16 @@
 title: ""
 output: html_document
 ---
+<br><br><br>
 <center>
-![](github_photo.jpg){width=40%}</center>
-
+![](github_photo.jpg){width=50%} ![](pic2.jpg){width=40%}
+</center>
 <br>
-My name is Craig Brinkerhoff (he/him) and I am a PhD candidate in the [Fluvial@UMass group](https://blogs.umass.edu/cjgleason/) in Civil/Environmental Engineering at the University of Massachusetts, Amherst. My interests are in large-to-global scale modeling and remote sensing of river hydrology and biogeochemistry and with a particular interest in hydraulic geometry.
+<font size="5"><div style="text-align: justify">
+My name is Craig Brinkerhoff (he/him) and I am a PhD candidate in the [Fluvial@UMass group](https://blogs.umass.edu/cjgleason/) in Civil & Environmental Engineering at the University of Massachusetts, Amherst. My interests are in large-to-global scale modeling and remote sensing of river network hydrology and biogeochemistry.
 
-I spend my spare time on music (mostly mandolin), single-origins, trail running, and cycling.
-
+<br><br><br>
 Feel free to contact me at cbrinkerhoff[at]umass[dot]edu!
+</div></font>
+<br><br>
+</font size="2"><center> Site created using [RMarkdown](https://rmarkdown.rstudio.com) </center></font>

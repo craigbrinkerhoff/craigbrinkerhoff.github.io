@@ -22,5 +22,5 @@ navbar:
       href: CV_Brinkerhoff.pdf
 output:
   html_document:
-    theme: cosmo
+    theme: yeti
     highlight: textmate
