@@ -4,7 +4,7 @@ output: html_document
 ---
 <br>
 <center>
-![](github_photo.jpg){width=50%} ![](pic2.jpg){width=40%}
+![](pic1.jpg){width=40%} ![](pic2.jpg){width=40%}
 </center>
 <br>
 <font size="5"><div style="text-align: justify">
