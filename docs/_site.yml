@@ -19,7 +19,7 @@ navbar:
       href: https://scholar.google.com/citations?user=PSOHzbQAAAAJ&hl=en
     - text: "CV"
       icon: fa-CV
-      href: CV_Brinkerhoff.pdf
+      href: CV_Brinkerhoff_short.pdf
 output:
   html_document:
     theme: yeti
