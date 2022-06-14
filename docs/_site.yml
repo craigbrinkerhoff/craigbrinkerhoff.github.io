@@ -14,6 +14,9 @@ navbar:
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/craigbrinkerhoff
+    - text: "Twitter"
+      icon: fa-twitter
+      href: https://twitter.com/CraigBrinkerhof
     - text: "Google Scholar"
       icon : fa-google
       href: https://scholar.google.com/citations?user=PSOHzbQAAAAJ&hl=en
