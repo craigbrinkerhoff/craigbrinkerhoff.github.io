@@ -9,10 +9,12 @@ output: html_document
 <br>
 <font size="5"><div style="text-align: justify">
 My name is Craig Brinkerhoff and I am a PhD candidate in the [Fluvial@UMass group](https://blogs.umass.edu/cjgleason/) in Civil & Environmental Engineering at the University of Massachusetts, Amherst. My interests are in large-to-global scale modeling and remote sensing of river network hydrology and biogeochemistry.
-
-<br><br><br>
-Feel free to contact me at cbrinkerhoff[at]umass[dot]edu!
+<br><br>
+<center>Feel free to contact me at cbrinkerhoff[at]umass[dot]edu!</center>
+<br>
+![](pic3.jpg)
 </div></font>
+</font size="4"><center> The Connecticut River in beautiful western Massachusetts!! </center></font>
 <br><br>
 </font size="2"><center> Site created using [RMarkdown](https://rmarkdown.rstudio.com) </center></font>
 </font size="2"><center> Copyright &#169; 2022 Craig Brinkerhoff </center></font>
