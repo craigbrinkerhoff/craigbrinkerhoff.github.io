@@ -1,0 +1,76 @@
+baseURL = "https://craigbrinkerhoff.github.io"
+languageCode = "en-us"
+title = "Craig Brinkerhoff"
+theme = "sourgough-starter"
+relativeURLs = true
+
+[markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+#------------- Config -------------------
+    scholarLink = true
+    dimensionCitations = true
+    backgroundPath = "CT_river_background.jpg"
+    googleScholar = "PSOHzbQAAAAJ"
+    footerOffset = -60
+
+#-------------- Defined ------------
+    css= ["css/sourgough.css"]
+
+[menu]
+#----- Navbar links ------
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/post/about/"
+  
+  [[menu.main]]
+    identifier = "CV"
+    name = "CV"
+    url = "CV_Brinkerhoff_short.pdf"
+
+  [[menu.main]]
+    identifier = "publications"
+    name = "Publications"
+    url = "/post/publications/"
+  
+  [[menu.main]]
+    identifier = "Contact"
+    name = "Contact"
+    url = "/post/contact/"
+
+#----- NavBottom Links ------
+  [[menu.bot]]
+    identifier = "github"
+    name = "Github"
+    url = "https://github.com/craigbrinkerhoff"
+    pre = "fab fa-github"
+  
+  [[menu.bot]]
+    identifier = "ordcidid"
+    name = "OrcidID"
+    url = "https://orcid.org/0000-0001-6701-4835"
+    pre = "fab fa-orcid"
+
+  [[menu.bot]]
+    identifier = "googlescholar"
+    name = "Google Scholar"
+    url = "https://scholar.google.com/citations?user=PSOHzbQAAAAJ&hl=en"
+    pre = "fas fa-graduation-cap"
+  
+  [[menu.bot]]
+    identifier = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/CraigBrinkerhof"
+    pre = "fab fa-twitter"
+    
+  [[menu.bot]]
+    identifier = "email"
+    name = "Email"
+    url = "mailto:cbrinkerhoff@umass.edu"
+    pre = "fa fa-envelope"
+
+[taxonomies]
+  authors = "authors"
+
