@@ -29,5 +29,5 @@ Alternatively, find me online below.
 </center>
 <br><br><br>
 <center>
-(This site was built using <a href="https://github.com/rstudio/blogdown" target="_blank">R blogdown</a> and <a href="https://github.com/jack-alope/sourgough-starter" target="_blank">sourdough starter</a>)
+(Find the repo for this website [here](https://github.com/craigbrinkerhoff/craigbrinkerhoff.github.io). It was built using <a href="https://github.com/rstudio/blogdown" target="_blank">R blogdown</a> and <a href="https://github.com/jack-alope/sourgough-starter" target="_blank">sourdough starter</a>)
 </center>

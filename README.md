@@ -7,4 +7,4 @@ The entire site should be reproducible as a `renv` lockfile is included to repro
 
 There are specific `blogdown` settings set up in the `.Rprofile`. These facilitate faster iterating on the website (auto-loading of server in-browser, auto-kniting on save, etc.) Check those out too.
 
-The `/docs` folder includes a page to auto-redirect craigbrinkerhoff.github.io to the correct website too!
+The `/docs` folder includes a page to auto-redirect craigbrinkerhoff.github.io to the correct URL too!
