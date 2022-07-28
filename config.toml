@@ -1,4 +1,4 @@
-baseURL = "https://craigbrinkerhoff.github.io"
+baseURL = "https://craigbrinkerhoff.netlify.app"
 languageCode = "en-us"
 title = "Craig Brinkerhoff"
 theme = "sourgough-starter"
