@@ -1,5 +1,7 @@
 source("renv/activate.R")
 
+library(blogdown)
+
 # fix Hugo version
 options(
   blogdown.hugo.version = "0.101.0",

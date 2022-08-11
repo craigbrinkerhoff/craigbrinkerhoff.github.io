@@ -28,7 +28,7 @@ relativeURLs = true
   [[menu.main]]
     identifier = "CV"
     name = "CV"
-    url = "CV_Brinkerhoff_short.pdf"
+    url = "CV_Brinkerhoff.pdf"
 
   [[menu.main]]
     identifier = "publications"
