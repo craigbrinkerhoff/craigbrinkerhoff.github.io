@@ -273,10 +273,10 @@
     },
     "rlang": {
       "Package": "rlang",
-      "Version": "1.0.4",
+      "Version": "1.0.5",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "6539dd8c651e67e3b55b5ffea106362b",
+      "Hash": "971c3d698fc06dabdac6bc4bcda72dc4",
       "Requirements": []
     },
     "rmarkdown": {
@@ -347,10 +347,10 @@
     },
     "tinytex": {
       "Package": "tinytex",
-      "Version": "0.40",
+      "Version": "0.41",
       "Source": "Repository",
       "Repository": "CRAN",
-      "Hash": "e7b654da5e77bc4e5435a966329cd25f",
+      "Hash": "6edfe5df6431a724b4254c0591e34ab3",
       "Requirements": [
         "xfun"
       ]
