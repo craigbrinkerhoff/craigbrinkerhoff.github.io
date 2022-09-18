@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
    name = "Craig Brinkerhoff"
    image = "imgs/pic1.jpg"
-   headline = "PhD candidate in water resources engineering"
+ #  headline = "PhD candidate in water resources engineering"
    bio = "PhD candidate in hydro-geomorphology"
    links = [
      { email = "mailto:cbrinkerhoff@umass.edu" },
