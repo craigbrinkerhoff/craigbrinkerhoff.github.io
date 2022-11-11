@@ -11,7 +11,7 @@ tags: ["about"]
 
 </center>
 <font size="4.5">
-My name is Craig Brinkerhoff and I am a PhD candidate in the [Fluvial@UMass group](https://blogs.umass.edu/cjgleason/) in Civil & Environmental Engineering at the University of Massachusetts, Amherst. I'm a <b style="color:#670067;">computational hydro-geomorphologist</b> interested in large-to-global scale modeling and remote sensing of rivers and (more broadly) drainage networks. My ultimate goal is to explore the downstream impacts of the landscape, rivers, and people.
+My name is Craig Brinkerhoff and I am a PhD candidate in the [Fluvial@UMass group](https://blogs.umass.edu/cjgleason/) in Civil & Environmental Engineering at the University of Massachusetts, Amherst. I'm a <b style="color:#670067;">computational hydro-geomorphologist</b> and <b style="color:#670067;">physical hydrologist</b> interested in large-to-global scale modeling and remote sensing of rivers and (more broadly) drainage networks. My ultimate goal is to explore the downstream impacts of the landscape, rivers, and people.
 <br><br>
-In practice, I use and develop scalable geomorphic theory within high-performance computational and remote sensing frameworks to better understand the downstream transport of water, nutrients, and other constituents. A unique component of my work is leveraging the long and rich tradition of field-scale fluvial geomorphology, hydraulics, and hydrology within large computing projects.
+In practice, I develop scalable geomorphic theory within high-performance computational and remote sensing frameworks to better understand the downstream transport of water and solutes. A unique component of my work is leveraging the long and rich tradition of field-scale fluvial geomorphology, hydraulics, and hydrology within large computing projects.
 <br><br>

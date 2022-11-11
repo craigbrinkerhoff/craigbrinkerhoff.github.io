@@ -22,5 +22,6 @@ dateFormat = "2 January 2006"
      { google = "https://scholar.google.com/citations?user=PSOHzbQAAAAJ&hl=en" },
      { twitter = "https://twitter.com/CraigBrinkerhof" },
      { github = "https://github.com/craigbrinkerhoff" },
-     { orcid = "https://orcid.org/0000-0001-6701-4835" }
+     { orcid = "https://orcid.org/0000-0001-6701-4835" },
+     { webofscience = "https://www.webofscience.com/wos/author/record/GQH-8417-2022"}
    ]
