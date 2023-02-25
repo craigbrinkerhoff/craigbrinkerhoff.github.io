@@ -1,0 +1,10 @@
+---
+title: Contact Me
+author: Craig Brinkerhoff
+date: '2022-09-17'
+categories: ["R"]
+tags: ["contact"]
+---
+## Please feel free to reach out to me at cbrinkerhoff@umass.edu!
+
+#### Find the repo for this website <a href="https://github.com/craigbrinkerhoff/craigbrinkerhoff.github.io" target="_blank">here</a>. It was built using <a href="https://github.com/rstudio/blogdown" target="_blank">R blogdown</a> and <a href="https://github.com/jpanther/congo" target="_blank">congo</a>

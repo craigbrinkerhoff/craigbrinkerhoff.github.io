@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on Craig Brinkerhoff</title>
+    <link>/</link>
+    <description>Recent content in About Me on Craig Brinkerhoff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Sat, 17 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>/post/2022-12-17-test/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2022-12-17-test/</guid>
+      <description>butthole</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>/contact/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Please feel free to reach out to me at cbrinkerhoff@umass.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>/cv/</link>
+      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/readme/</guid>
+      <description>some notes on getting hugo academic CLI to work # Hugo academic CLI is a python CLI to convert a bibtex file to individual .</description>
+    </item>
+    
+  </channel>
+</rss>

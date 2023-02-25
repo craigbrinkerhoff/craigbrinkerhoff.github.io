@@ -11,19 +11,24 @@
 # ordered by weight from lowest to highest.
 
 #[[main]]
-#  name = "Research"
-#  pageRef = "post/Research"
-#  weight = 10
+#  name = "Research Themes"
+#  pageRef = "research"
+#  weight = 1
 
 [[main]]
   name = "CV"
-  pageRef = "post/CV"
-  weight = 20
+  pageRef = "CV"
+  weight = 2
 
 [[main]]
-  name = "Contact Me"
-  pageRef = "post/contact"
-  weight = 30
+  name = "Publications"
+  pageRef = "publication"
+  weight = 3
+  
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 4
 
 
 # -- Footer Menu --

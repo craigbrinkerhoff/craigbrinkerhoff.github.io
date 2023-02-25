@@ -1,8 +1,0 @@
----
-title: Research
-author: Craig Brinkerhoff
-date: '2022-09-17'
-categories: ["R"]
-tags: ["Research"]
----
-![](pic2.jpg)

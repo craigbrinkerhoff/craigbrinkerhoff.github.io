@@ -15,12 +15,10 @@ dateFormat = "2 January 2006"
 [author]
    name = "Craig Brinkerhoff"
    image = "imgs/pic1.jpg"
- #  headline = "PhD candidate in water resources engineering"
    bio = "PhD candidate in hydro-geomorphology"
    links = [
      { email = "mailto:cbrinkerhoff@umass.edu" },
      { google = "https://scholar.google.com/citations?user=PSOHzbQAAAAJ&hl=en" },
      { twitter = "https://twitter.com/CraigBrinkerhof" },
-     { github = "https://github.com/craigbrinkerhoff" },
-     { orcid = "https://orcid.org/0000-0001-6701-4835" }
+     { github = "https://github.com/craigbrinkerhoff" }
    ]

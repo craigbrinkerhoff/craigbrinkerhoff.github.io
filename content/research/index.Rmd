@@ -1,0 +1,27 @@
+---
+title: Research Themes
+author: Craig Brinkerhoff
+date: '2023-01-15'
+categories: ["R"]
+tags: ["Research"]
+---
+
+## Global river remote sensing
+- What properties of a river can we infer from satellite measurements?
+- What first-order geomorphology can we learn from these measurements?
+- How do they inform and help river transport simulations?
+
+## River solute transport modeling
+- How does CO2 and DOC move through drainage systems?
+- How about other nutrients and/or pollutants?
+- What roles do river size and lake/reservoir topology play in downstream carbon transport?
+
+## Downstream impacts modeling
+- What role do headwaters play in water quality?
+- How to dams/reservoirs/levees/canals implicate downstream transport of water and solutes?
+- What are the downstream impacts of pollution, wastewater effluent, forest organic matter, and more?
+
+## Fundamental fluvial geomorphology
+- What governs channel shape along river profiles from source to sea?
+- How does theoretical advances in flow resistance and sediment transport equations influence broader global hydrology?
+- Are river network scaling 'laws' emergent properties or statistically contrived?
