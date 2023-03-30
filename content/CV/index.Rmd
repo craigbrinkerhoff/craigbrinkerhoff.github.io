@@ -1,10 +1,10 @@
 ---
-title: CV
+title: Curriculum Vitae
 author: Craig Brinkerhoff
-date: '2023-02-23'
+date: '2023-03-23'
 categories: ["R"]
 tags: ["CV"]
 ---
 <center>
-<iframe src="CV_Brinkerhoff.pdf" width="300%" height="800px"></iframe>
+<iframe src="CV_Brinkerhoff.pdf" width="100%" height="800px"></iframe>
 </center>

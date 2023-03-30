@@ -1,27 +1,37 @@
 ---
-title: Research Themes
-author: Craig Brinkerhoff
-date: '2023-01-15'
-categories: ["R"]
-tags: ["Research"]
+title: "Research"
+author: "Craig Brinkerhoff"
+date: "2023-03-30"
+output: html_document
 ---
+<center>
+![](stream_to_ocean_observation_system.png)
+</center>
+My work takes a necessarily holistic, multi-scale approach to mapping and measuring surface water quantity and quality. I do this across millions of rivers by leveraging and developing tools from river hydrology, river biogeochemistry, remote sensing, and large-scale geoprocessing.
 
-## Global river remote sensing
-- What properties of a river can we infer from satellite measurements?
-- What first-order geomorphology can we learn from these measurements?
-- How do they inform and help river transport simulations?
+I'm particularly interested in the emergent phenomena that arise from simultaneously considering hydrology and biogeochemistry at large scales: **how might a broad, 'bio-geo-morpho-chemical' approach reveal new knowledge about global surface water health? And what might these findings mean for sustainable freshwater management?**
 
-## River solute transport modeling
-- How does CO2 and DOC move through drainage systems?
-- How about other nutrients and/or pollutants?
-- What roles do river size and lake/reservoir topology play in downstream carbon transport?
+-------------------------------
 
-## Downstream impacts modeling
-- What role do headwaters play in water quality?
-- How to dams/reservoirs/levees/canals implicate downstream transport of water and solutes?
-- What are the downstream impacts of pollution, wastewater effluent, forest organic matter, and more?
+## Measuring rivers from space
+- What properties of global rivers can we infer from satellite measurements?
+- What do these measurements reveal about global hydrology?
+- Representative papers:
+  - [Constraining remote river discharge estimation using reach-scale geomorphology](https://doi.org/10.1029/2020WR027949)
+  - [Inversion of river discharge from remotely sensed river widths: A critical assessment at three-thousand global river gauges](https://doi.org/10.1016/j.rse.2023.113489)
+  - [Remotely sensing river greenhouse gas exchange velocity using the SWOT satellite](https://doi.org/10.1029/2022GB007419)
 
-## Fundamental fluvial geomorphology
-- What governs channel shape along river profiles from source to sea?
-- How does theoretical advances in flow resistance and sediment transport equations influence broader global hydrology?
-- Are river network scaling 'laws' emergent properties or statistically contrived?
+## Transporting 'stuff' downstream
+- How do organic matter, pollutants, and other solutes move through drainage systems?
+- How does geomorphology and hydrology modulate downstream water quality?
+- Representative papers:
+  - [Lake morphometry and river network controls on evasion of terrestrially sourced headwater CO2](https://doi.org/10.1029/2020GL090068)
+  - [Watershed DOC uptake occurs mostly in lakes in the summer and in rivers in the winter](https://doi.org/10.1002/lno.12306)
+  - [Global controls on DOC reaction versus export in watersheds: A Damkhler number analysis](https://doi.org/10.1029/2021GB007278)
+
+## Mapping the human footprint on global surface waters
+- What do the above techniques reveal about human impacts on hydrology?
+- How do both physical and political agents impact river water quality globally?
+- How far downstream are these impacts felt?
+- Representative papers:
+  - In the pipeline...

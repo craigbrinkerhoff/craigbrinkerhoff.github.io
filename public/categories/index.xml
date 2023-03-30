@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Craig Brinkerhoff</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Craig Brinkerhoff</description>
+    <title>Categories on Archie</title>
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories on Archie</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Sat, 17 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/r/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language>
+    <copyright>© Athul</copyright><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

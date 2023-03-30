@@ -1,0 +1,30 @@
+baseURL: https://craigbrinkerhoff.netlify.app
+languageCode: en-us
+title: Craig Brinkerhoff
+theme: archie
+copyright: ©craigbrinkerhoff
+pygmentsstyle: monokai
+pygmentscodefences: yes
+pygmentscodefencesguesssyntax: yes
+# Number of posts to show in recent posts list (Optional). Defaults to 10.
+paginate: 100
+params:
+  home: /content
+  mainSections: ["About"]
+  mode: toggle
+  social:
+    - icon: github
+      name: GitHub
+      url: https://github.com/craigbrinkerhoff
+  useCDN: no
+menu:
+  main:
+    - name: Research
+      url: /Research
+      weight: 1
+    - name: CV
+      url: /CV
+      weight: 2
+    - name: Publications
+      url: /publication
+      weight: 3

@@ -43,7 +43,7 @@ bibtexScraper <- function(i){
     'url'=paper$URL,
     'title' = title,
     'journal'=journal,
-    'year'=paste0(paper$YEAR,'-01-01'), #dummy days, I just want the year
+    'year'=paper$URLDATE, #dummy days, I just want the year
     'authors' = authors,
     'abstract' = abstract
   )

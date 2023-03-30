@@ -1,23 +1,23 @@
 ---
-title: "Constraining the Assimilation of SWOT Observations With Hydraulic Geometry Relations"
-date: "2020-01-01"
+title: "Inversion of river discharge from remotely sensed river widths: A critical assessment at three-thousand global river gauges"
+date: "2023-02-04"
 ---
 
 
 
 <div id="doi" class="section level2">
 <h2>DOI</h2>
-<p><a href="https://doi.org/10.1029/2019WR026611" class="uri">https://doi.org/10.1029/2019WR026611</a></p>
+<p><a href="https://doi.org/10.1016/j.rse.2023.113489" class="uri">https://doi.org/10.1016/j.rse.2023.113489</a></p>
 </div>
 <div id="journal" class="section level2">
 <h2>Journal</h2>
-<p>Water Resources Research</p>
+<p>Remote Sensing of Environment</p>
 </div>
 <div id="authors" class="section level2">
 <h2>Authors</h2>
-<p>Andreadis, K. M., Brinkerhoff, C. B., Gleason, C. J.</p>
+<p>Lin, P., Feng, D., Gleason, C.J., Pan, M., Brinkerhoff, C.B., Yang, X., Beck, H.E., Frasson, R.P.M</p>
 </div>
 <div id="abstract" class="section level2">
 <h2>Abstract</h2>
-<p>The Surface Water Ocean Topography (SWOT) satellite mission expected to launch in 2021 will offer a unique opportunity to map river discharge at an unprecedented spatial resolution globally from observations of water surface elevation, width, and slope. Because river discharge will not be directly observed from SWOT, a number of algorithms of varying complexity have been developed to estimate discharge from SWOT observables. Outstanding issues include the lack of accurate prior information and parameter equifinality. We developed a new data assimilation discharge algorithm that aimed to overcome these limitations by integrating a data-driven approach to estimate priors with a model informed by hydraulic geometry relations. A comprehensive simulated dataset of 18 rivers was used to evaluate the algorithm and four different configurations (rectangular channel, generic channel, and geomorphologically classified channel with and without regularization) to assess the impact of progressively adding hydraulic geometry constraints to the estimation problem. The algorithm with the full set of constraints outperformed the other configurations with median Nash-Sutcliffe coefficients of 0.77, compared with ˆ’0.46, 0.31 and 0.66, while other error metrics showed similar improvement. Results from this study show the promise of this hybrid data-driven approach to estimating river discharge from SWOT observations, although a number of enhancements need to be tested to improve the operational applicability of the algorithm.</p>
+<p>Accurately estimating river discharge from satellite-derived river hydraulic variables (e.g., width, height, and slope) is the overarching goal of the remote sensing of discharge (RSQ) community. Numerous past studies have developed and intercompared different RSQ algorithms to demonstrate their feasibility, yet relatively few have focused on assessing how the RSQ algorithms are adapted to a wide range of rivers globally. As the community is now ready to expand to the global scale given advances in computing power, sensors, and the launch of the Surface Water and Ocean Topography (SWOT) satellite mission, a much broader geographic view of RSQ accuracy should be prioritized toward œbetter generalizability instead of œhigher accuracy at limited places . To help close this gap, we extracted multi-temporal river widths from 350 K Landsat scenes at 3 K river reaches globally, and used them to estimate discharge using the Bayesian AMHG-Manning (BAM) algorithm and the geomorphologically-enhanced variant (geoBAM). We use this framework to demonstrate how to apply an ˜off the shelf RSQ algorithm and test it globally without methodological intervention and answer: does it live up to its promise Our daily discharge inversions (19842019) showed positive Kling-Gupta Efficiency (KGE) at 27% of the gauges for BAM and 39% for geoBAM, and this percentage increased to 4665% after feeding richer priors on flow seasonality and monthly variability, amounting to 14002000 successful inversions. Exploratory analyses showed that the inversion is the most sensitive to a channel geomorphological parameter b and climate aridity, where the optimal conditions are high-b, humid environments, as well as moderate width variability, leaf area index (LAI), and river width. Although specific to BAM/geoBAM, constraining the factors to their optimal ranges led to a median KGE of 0.33 for 600 gauges, which highlights the promising potential for global RSQ. We further discussed the optimal configuration of the RS/priors by analyzing results derived from different information content in priors. Overall, our critical assessment of BAM/geoBAM reveals a successful global implementation of an existing algorithm that SWOT will improve. We suggest similar large-scale assessments for other RSQs be prioritized to identify the emerging challenges as we move into a new era with global river monitoring capability from space.</p>
 </div>

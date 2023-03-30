@@ -1,18 +1,21 @@
 ---
-title: "About Me"
-author: "Craig Brinkerhoff"
-date: '2022-09-17'
-categories: ["R"]
-tags: ["about"]
+title: About Me
+author: Craig Brinkerhoff
+date: "2023-03-22"
 ---
 
-<br>
 <center>
-
+![](pic1.jpg){ width=20%}
+![](pic2.jpg){ width=20% }
 </center>
-<font size="4.5">
-My name is Craig Brinkerhoff and I am a PhD candidate in the [Fluvial@UMass group](https://blogs.umass.edu/cjgleason/) in Civil & Environmental Engineering at the University of Massachusetts, Amherst. I'm a computational fluvial hydrologist interested in the downstream impacts of the landscape (and people) on global water quantity and quality.
-<br><br>
 
-In practice, I use and develop 1) novel remote sensing algorithms, 2) geomorphic scaling theory, 3) numerical river transport models, and 4) in situ sensor networks to map, measure, and monitor water/solute transport through the world’s drainage systems. A unique component of my work is leveraging the long and rich tradition of fieldwork in fluvial geomorphology and hydrology within large computing projects.
-<br><br>
+I'm a PhD candidate and a computational fluvial hydrologist interested in global surface water quantity and quality. I use and develop remote sensing, in situ sensing, geomorphic scaling, and river transport modeling to measure water/solute transport through the world’s drainage systems. A unique component of my work is bringing together ideas from river hydrology, geomorphology, and biogeochemistry within large computing projects. See my [Research](/research/) page for more details!!
+
+## Current home
+<a href="https://blogs.umass.edu/cjgleason/" target="_blank">Fluvial@UMass</a>
+
+## Links
+<a href="https://scholar.google.com/citations?user=PSOHzbQAAAAJ&hl=en" target="_blank">Google Scholar</a> <a href="https://github.com/craigbrinkerhoff" target="_blank">Github</a> <a href="https://twitter.com/Craigbrinkerhof" target="_blank">Twitter</a>
+
+## Contact
+cbrinkerhoff [at] umass [dot] edu
