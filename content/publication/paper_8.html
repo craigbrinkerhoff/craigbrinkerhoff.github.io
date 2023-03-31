@@ -1,23 +1,23 @@
 ---
-title: "Remotely Sensing River Greenhouse Gas Exchange Velocity Using the SWOT Satellite"
-date: "2022-10-09"
+title: "Inversion of River Discharge from Remotely Sensed River Widths: A Critical Assessment at Three-Thousand Global River Gauges"
+date: "2023-02-01"
 ---
 
 
 
 <div id="doi" class="section level2">
 <h2>DOI</h2>
-<p><a href="https://doi.org/10.1029/2022GB007419" class="uri">https://doi.org/10.1029/2022GB007419</a></p>
+<p><a href="https://doi.org/10.1016/j.rse.2023.113489" class="uri">https://doi.org/10.1016/j.rse.2023.113489</a></p>
 </div>
 <div id="journal" class="section level2">
 <h2>Journal</h2>
-<p>Global Biogeochemical Cycles</p>
+<p>Remote Sensing of Environment</p>
 </div>
 <div id="authors" class="section level2">
 <h2>Authors</h2>
-<p>Brinkerhoff, C.B., Gleason, C.J., Zappa, C.J., Raymond, P.A., Harlan, M.E.</p>
+<p>Lin, P., Feng, D., Gleason, C.J., Pan, M., Brinkerhoff, C.B., Yang, X., Beck, H.E., Frasson, R.P.M</p>
 </div>
 <div id="abstract" class="section level2">
 <h2>Abstract</h2>
-<p>Two decades of research has shown that the global river network emits significant amounts of greenhouse gas. Despite much progress, there is still large uncertainty in the temporal dynamics of gas exchange and thus carbon emissions to the atmosphere. Much of this uncertainty stems from a lack of existing tools for studying the spatiotemporal dynamics of gas exchange velocity (the rate of this diffusive transport). We propose that the NASA/CNES/UKSA/CSA Surface Water and Ocean Topography (SWOT) satellite can provide new insights to fluvial gas exchange modeling upon launch and subsequent data collection in 2022. Here, we exploit the distinct geomorphology of SWOT-observable rivers (50 m wide) to develop a physical model of gas exchange that is remotely sensible and explains 50% of log-transformed variation across 166 field measurements of . We then couple this model with established inversion techniques to develop BIKER, the œBayesian Inference of the Exchange Rate algorithm. We validate BIKER on 47 SWOT-simulated rivers without an in-situ calibration, yielding an algorithm that predicts the timeseries solely from SWOT observations with a by-river median Kling-Gupta Efficiency of 0.21. BIKER is better at inferring the temporal variation of gas exchange (median correlation coefficient of 0.91), than reproducing the absolute rates of exchange (median normalized RMSE of 51%). Finally, BIKER is robust to measurement errors implicit in the SWOT data. We suggest that BIKER will be useful in mapping global-scale fluvial gas exchange and improving emissions estimates when coupled with river models.</p>
+<p>Accurately estimating river discharge from satellite-derived river hydraulic variables (e.g., width, height, and slope) is the overarching goal of the remote sensing of discharge (RSQ) community. Numerous past studies have developed and intercompared different RSQ algorithms to demonstrate their feasibility, yet relatively few have focused on assessing how the RSQ algorithms are adapted to a wide range of rivers globally. As the community is now ready to expand to the global scale given advances in computing power, sensors, and the launch of the Surface Water and Ocean Topography (SWOT) satellite mission, a much broader geographic view of RSQ accuracy should be prioritized toward <code>better generalizability'' instead of</code>higher accuracy at limited places’‘. To help close this gap, we extracted multi-temporal river widths from $&gt;$350~K Landsat scenes at $&gt;$3~K river reaches globally, and used them to estimate discharge using the Bayesian AMHG-Manning (BAM) algorithm and the geomorphologically-enhanced variant (geoBAM). We use this framework to demonstrate how to apply an `off the shelf’ RSQ algorithm and test it globally without methodological intervention and answer: does it live up to its promise Our daily discharge inversions (1984) showed positive Kling-Gupta Efficiency (KGE) at 27% of the gauges for BAM and 39% for geoBAM, and this percentage increased to 46% after feeding richer priors on flow seasonality and monthly variability, amounting to 1400 successful inversions. Exploratory analyses showed that the inversion is the most sensitive to a channel geomorphological parameter b and climate aridity, where the optimal conditions are high-b, humid environments, as well as moderate width variability, leaf area index (LAI), and river width. Although specific to BAM/geoBAM, constraining the factors to their optimal ranges led to a median KGE of 0.33 for $&gt;$600 gauges, which highlights the promising potential for global RSQ. We further discussed the optimal configuration of the RS/priors by analyzing results derived from different information content in priors. Overall, our critical assessment of BAM/geoBAM reveals a successful global implementation of an existing algorithm that SWOT will improve. We suggest similar large-scale assessments for other RSQs be prioritized to identify the emerging challenges as we move into a new era with global river monitoring capability from space.</p>
 </div>

@@ -5,7 +5,7 @@ date: "2023-03-22"
 ---
 
 <center>
-![](pic1.jpg){ width=20%}
+![](pic1.jpg){ width=20% }
 ![](pic2.jpg){ width=20% }
 </center>
 

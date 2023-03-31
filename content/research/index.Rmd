@@ -6,6 +6,7 @@ output: html_document
 ---
 <center>
 ![](stream_to_ocean_observation_system.png)
+<p>2023 &#169;craigbrinkerhoff</p>
 </center>
 My work takes a necessarily holistic, multi-scale approach to mapping and measuring surface water quantity and quality. I do this across millions of rivers by leveraging and developing tools from river hydrology, river biogeochemistry, remote sensing, and large-scale geoprocessing.
 
