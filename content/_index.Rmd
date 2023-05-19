@@ -14,6 +14,9 @@ I'm a PhD candidate and a computational hydrologist interested in global surface
 ## Current home
 <a href="https://blogs.umass.edu/cjgleason/" target="_blank">Fluvial@UMass</a>
 
+## Past home
+<a href="https://wp.geog.mcgill.ca/hydrolab/" target="_blank">Global HydroLAB</a>
+
 ## Links
 <a href="https://scholar.google.com/citations?user=PSOHzbQAAAAJ&hl=en" target="_blank">Google Scholar</a> <a href="https://github.com/craigbrinkerhoff" target="_blank">Github</a> <a href="https://twitter.com/Craigbrinkerhof" target="_blank">Twitter</a>
 
