@@ -9,7 +9,7 @@ date: "2023-03-22"
 ![](pic2.jpg){ width=20% }
 </center>
 
-I'm a PhD candidate and a computational hydrologist interested in global surface water quantity and quality. I use and develop remote sensing, in situ sensing, geomorphic scaling, and river transport modeling to measure water/solute transport through the world’s drainage systems. A unique component of my work is bringing together ideas from river hydrology, geomorphology, and limnology within large computing projects. See my [Research](/research/) page for more details!!
+I'm a PhD candidate and a computational hydrologist interested in global surface water quantity and quality. I use and develop remote sensing, in situ sensing, geomorphic scaling, and river transport modeling to measure water/solute transport through the world’s drainage systems. A unique component of my work is bringing together ideas from river hydrology, geomorphology, and biogeochemistry within large computing projects. See my [Research](/research/) page for more details!!
 
 ## Current home
 <a href="https://blogs.umass.edu/cjgleason/" target="_blank">Fluvial@UMass</a>
