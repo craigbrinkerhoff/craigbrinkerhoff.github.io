@@ -7,18 +7,17 @@ tags: ["Temp"]
 ---
 ## Just needed a public link for storing some images for a test. Nothing to see here...
 
-![](201112_222659_37_241c_3B_AnalyticMS_SR_clip_88.jpg)
+![](200911_213726_20_2263_3B_AnalyticMS_SR_clip_83.png)
+![](201031_213656_54_2212_3B_AnalyticMS_SR_clip_88.png)
 
-![](201210_221326_40_227a_3B_AnalyticMS_SR_clip_37.jpg)
+![](201031_213656_54_2212_3B_AnalyticMS_SR_clip_88_annotated.png)
 
-![](201127_222254_17_2402_3B_AnalyticMS_SR_clip_83.jpg)
+![](201110_223413_01_2413_3B_AnalyticMS_SR_clip_26.png)
 
-![](201214_222140_62_2254_3B_AnalyticMS_SR_clip_83.jpg)
+![](201110_223413_01_2413_3B_AnalyticMS_SR_clip_26_annotated.png)
 
-![](190818_001647_14_1067_3B_AnalyticMS_SR_clip_88.jpg)
+![](201127_223049_34_2424_3B_AnalyticMS_SR_clip_83.png)
 
-![](200403_221306_10_105c_3B_AnalyticMS_SR_clip_8.jpg)
+![](201227_220041_19_2251_3B_AnalyticMS_SR_clip_88.png)
 
-![](190818_001647_14_1067_3B_AnalyticMS_SR_clip_88_annotated.png)
-
-![](201112_222659_37_241c_3B_AnalyticMS_SR_clip_88_annotated.png)
+![](201227_220041_19_2251_3B_AnalyticMS_SR_clip_88_annotated.png)
