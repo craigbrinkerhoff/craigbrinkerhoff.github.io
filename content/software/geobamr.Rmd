@@ -1,0 +1,5 @@
+---
+title: geoBAMr
+date: 2020-01-01
+---
+<meta http-equiv="Refresh" content="0; url='https://craigbrinkerhoff.github.io/geoBAMr/'" />

@@ -28,6 +28,6 @@ menu:
     - name: Publications
       url: /publication
       weight: 3
-    - name: geoBAMr
-      url: https://craigbrinkerhoff.github.io/geoBAMr/
+    - name: Software
+      url: /software
       weight: 4
