@@ -2,4 +2,4 @@
 title: BIKER
 date: 2022-01-01
 ---
-<meta http-equiv="Refresh" content="0; url='https://github.com/craigbrinkerhoff/BIKER/'" />
+<a href=https://github.com/craigbrinkerhoff/BIKER/ target="_blank">BIKER </a>

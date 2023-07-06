@@ -2,4 +2,4 @@
 title: SARNr
 date: 2021-01-01
 ---
-<meta http-equiv="Refresh" content="0; url='https://github.com/craigbrinkerhoff/SARNr/'" />
+<a href=https://github.com/craigbrinkerhoff/SARNr/ target="_blank">SARNr </a>
