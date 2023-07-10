@@ -1,5 +1,10 @@
 ---
 title: SARNr
-date: 2021-01-01
+date: 2022-01-01
 ---
-<a href=https://github.com/craigbrinkerhoff/SARNr/ target="_blank">SARNr </a>
+
+[`SARNr`](https://github.com/craigbrinkerhoff/SARNr/) is an R implementation of a modified version of the SARN algorithm. The original SARN algorithm is an Arcpy script developed by Xin Lu and Kang Yang at Nanjing University to map actively flowing drainage networks by combining Sentinel-2 water masks and a DEM-based river network. See the below paper for more.
+
+Lu, X., Yang, K., Lu, Y., Gleason, C.J., Smith, L.C., & Li, M. (2020). Small Arctic rivers mapped from Sentinel-2 satellite imagery and ArcticDEM. Journal of Hydrology, 584, 124689
+
+SARNr takes this algorithm and rewrites it in R such that you 1) don't need an ArcGIS license, 2) you can use any satellite imagery of any resolution, and 3) processing can easily be farmed out to parallel workers on an HPC and dramatically increase processing speeds.

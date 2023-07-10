@@ -2,4 +2,4 @@
 title: BIKER
 date: 2022-01-01
 ---
-<a href=https://github.com/craigbrinkerhoff/BIKER/ target="_blank">BIKER </a>
+[`BIKER`](https://github.com/craigbrinkerhoff/BIKER/) ("Bayesian Inference of the K600 Evasion Rate") enables inference of the normalized riverine gas exchange velocity from measurements of river surface width and height/slope. It does so using Bayesian inference and a Hamiltonian Monte Carlo sampler to generate a posterior distribution for a gas exchange model. `BIKER` was developed in the context of the upcoming [NASA/CNES SWOT mission](https://swot.jpl.nasa.gov/mission/overview/).
