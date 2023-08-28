@@ -20,8 +20,11 @@ params:
 menu:
   main:
     - name: Research
-      url: /Research
+      url: /research
       weight: 1
+    #- name: Teaching
+    #  url: /teaching
+    #  weight: 2
     - name: CV
       url: /CV
       weight: 2

@@ -8,12 +8,12 @@ output: html_document
 ![](stream_to_ocean_observation_system_vector.png)
 <p>2023 &#169;craigbrinkerhoff</p>
 </center>
-My work takes a necessarily broad, multi-tool approach to global hydrology. I do this across millions of rivers by leveraging and developing tools from hydrology, biogeochemistry, remote sensing, and large-scale geoprocessing. I'm particularly interested in what arises from simultaneously considering hydrology and biogeochemistry at large scales: **how might a broad, 'bio-geo-morpho-chemical' approach reveal new knowledge about global surface water quantity and quality?**
+My work takes a broad, multi-tool approach to global hydrology. I do this across millions of rivers by leveraging and developing tools from hydrology, biogeochemistry, remote sensing, and large-scale geoprocessing. I'm particularly interested in what arises from simultaneously considering hydrology and biogeochemistry at large scales: **how might a broad, 'bio-geo-morpho-chemical' approach reveal new knowledge about global surface water quantity and quality?**
 
 -------------------------------
 
 ## Measuring rivers from space
-- What properties of global rivers can we infer from satellite measurements?
+- What properties of global rivers can we measure using satellite measurements?
 - What do these measurements reveal about global hydrology?
 - Representative papers:
   - [Constraining remote river discharge estimation using reach-scale geomorphology](https://doi.org/10.1029/2020WR027949)
