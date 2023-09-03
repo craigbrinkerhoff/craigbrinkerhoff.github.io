@@ -19,18 +19,18 @@ params:
   useCDN: no
 menu:
   main:
-    - name: Research
+    - name: research
       url: /research
       weight: 1
     #- name: Teaching
     #  url: /teaching
     #  weight: 2
-    - name: CV
+    - name: cv
       url: /CV
       weight: 2
-    - name: Publications
+    - name: publications
       url: /publication
       weight: 3
-    - name: Software
-      url: /software
-      weight: 4
+#    - name: Software
+#      url: /software
+#      weight: 4

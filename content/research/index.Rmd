@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "research"
 author: "Craig Brinkerhoff"
 date: "2023-03-30"
 output: html_document
@@ -12,7 +12,7 @@ My work takes a broad, multi-tool approach to global hydrology. I do this across
 
 -------------------------------
 
-## Measuring rivers from space
+## measuring rivers from space
 - What properties of global rivers can we measure using satellite measurements?
 - What do these measurements reveal about global hydrology?
 - Representative papers:
@@ -20,7 +20,7 @@ My work takes a broad, multi-tool approach to global hydrology. I do this across
   - [Inversion of river discharge from remotely sensed river widths: A critical assessment at three-thousand global river gauges](https://doi.org/10.1016/j.rse.2023.113489)
   - [Remotely sensing river greenhouse gas exchange velocity using the SWOT satellite](https://doi.org/10.1029/2022GB007419)
 
-## Transporting 'stuff' downstream
+## transporting 'stuff' downstream
 - How do organic matter, pollutants, and other solutes move through drainage systems?
 - How does geomorphology and hydrology modulate downstream water quality?
 - Representative papers:
@@ -28,7 +28,7 @@ My work takes a broad, multi-tool approach to global hydrology. I do this across
   - [Watershed DOC uptake occurs mostly in lakes in the summer and in rivers in the winter](https://doi.org/10.1002/lno.12306)
   - [Global controls on DOC reaction versus export in watersheds: A Damkhler number analysis](https://doi.org/10.1029/2021GB007278)
 
-## Mapping the human footprint on global surface waters
+## mapping the human footprint on global surface waters
 - What do the above techniques reveal about human impacts on hydrology?
 - How do both physical and political agents impact river water quality globally?
 - How far downstream are these impacts felt?
