@@ -1,5 +1,5 @@
 ---
-title: curriculum vitae
+title: Curriculum vitae
 author: Craig Brinkerhoff
 date: '2023-09-03'
 categories: ["R"]

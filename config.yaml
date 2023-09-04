@@ -22,15 +22,15 @@ menu:
     - name: research
       url: /research
       weight: 1
-    #- name: Teaching
-    #  url: /teaching
-    #  weight: 2
     - name: cv
       url: /CV
       weight: 2
     - name: publications
       url: /publication
       weight: 3
+    - name: teaching
+      url: /teaching
+      weight: 4
 #    - name: Software
 #      url: /software
 #      weight: 4
