@@ -16,6 +16,6 @@ current home: <a href="https://blogs.umass.edu/cjgleason/" target="_blank">fluvi
 
 past home: <a href="https://wp.geog.mcgill.ca/hydrolab/" target="_blank">global hydrolab</a>
 
-personal: <a href="https://scholar.google.com/citations?user=PSOHzbQAAAAJ&hl=en" target="_blank">google scholar</a> <a href="https://github.com/craigbrinkerhoff" target="_blank">github</a> <a href="https://twitter.com/Craigbrinkerhof" target="_blank">twitter</a>
+personal: <a href="https://scholar.google.com/citations?user=PSOHzbQAAAAJ&hl=en" target="_blank">google scholar</a> <a href="https://github.com/craigbrinkerhoff" target="_blank">github</a>
 
 contact: cbrinkerhoff [at] umass [dot] edu
