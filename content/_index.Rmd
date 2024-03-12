@@ -1,7 +1,7 @@
 ---
 title: About me
 author: Craig Brinkerhoff
-date: "2023-03-22"
+date: "2024-03-12"
 ---
 
 <center>
@@ -10,7 +10,7 @@ date: "2023-03-22"
 
 </center>
 
-I'm a PhD candidate and a computational hydrologist interested in global surface water quantity and quality, approaching global hydrology through the lens of river science. See my [research](/research/) page for more!!
+I'm a computational hydrologist interested in global surface water quantity and quality, approaching global hydrology through the lens of river science, modeling, and satellite remote sensing. See my [research](/research/) page for more!!
 
 current home: <a href="https://blogs.umass.edu/cjgleason/" target="_blank">fluvial@umass</a>
 
