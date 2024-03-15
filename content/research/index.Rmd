@@ -5,7 +5,7 @@ date: "2023-03-30"
 output: html_document
 ---
 <center>
-![](stream_to_ocean_observation_system_vector_2.png)
+![](stream_to_ocean_observation_system_vector.png)
 <p>2023 &#169;craigbrinkerhoff</p>
 </center>
 Drainage networks are the arteries of the continents, an interconnected network of rivers, streams, lakes, reservoirs, wetlands, and more that drain the land surface and transport water, sediments, nutrients, and other ‘stuff’ downstream or to the atmosphere. Sustainable management of global freshwater resource issues requires not only a knowledge of hydroclimatic processes across a range of scales, but also the toolkit (models, remote monitoring networks, and computational frameworks) to explore potential solutions. My work seeks to build this toolkit by taking a broad, cross-disciplinary approach to surface hydrology. I develop and combine (1) remote sensing algorithms, (2) numerical transport models, and (3) hydrological connectivity and hydraulic geometry theories to better understand global surface water and nutrient cycling. **Approaching global hydrology and biogeochemistry this way (through the lens of multidisciplinary river science) provides a framework- and the computational toolkit- necessary to sustainably manage global freshwater resources.**
