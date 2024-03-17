@@ -1,31 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Craig Brinkerhoff</title>
+    <title>About me on Craig Brinkerhoff</title>
     <link>https://craigbrinkerhoff.netlify.app/</link>
-    <description>Recent content on Craig Brinkerhoff</description>
+    <description>Recent content in About me on Craig Brinkerhoff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©craigbrinkerhoff</copyright>
-    <lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://craigbrinkerhoff.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://craigbrinkerhoff.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Curriculum Vitae</title>
+      <title>Curriculum vitae</title>
       <link>https://craigbrinkerhoff.netlify.app/cv/</link>
-      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://craigbrinkerhoff.netlify.app/cv/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Framework for Estimating Global River Discharge from the Surface Water and Ocean Topography Satellite Mission</title>
+      <title>Teaching</title>
+      <link>https://craigbrinkerhoff.netlify.app/teaching/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/teaching/</guid>
+      <description>Stay tuned for course materials I’ve developed…
+As instructor of recordUMass ENG-FYS 191: Engineering rivers and ecosystemsAs teaching assistantUMass ENG-CEE 470/570: GIS for Engineers</description>
+    </item>
+    
+    <item>
+      <title>Turning Lakes Into River Gauges Using the LakeFlow Algorithm</title>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_13/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_13/</guid>
+      <description>DOIhttps://doi.org/10.1029/2023GL103924
+JournalGeophysical Research Letters
+AuthorsRiggs, Ryan M., Allen, George H., Brinkerhoff, Craig B., Sikder, Md. Safat, Wang, Jida
+AbstractRivers and lakes are intrinsically connected waterbodies yet they are rarely used to hydrologically constrain one another with remote sensing. Here we begin to bridge the gap between river and lake hydrology with the introduction of the LakeFlow algorithm. LakeFlow uses river-lake mass conservation and observations from the Surface Water and Ocean Topography (SWOT) satellite to provide river discharge estimates of lake and reservoir inflows and outflows.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://craigbrinkerhoff.netlify.app/research/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/research/</guid>
+      <description>2023 ©craigbrinkerhoffDrainage networks are the arteries of the continents, an interconnected network of rivers, streams, lakes, reservoirs, wetlands, and more that drain the land surface and transport water, sediments, nutrients, and other ‘stuff’ downstream or to the atmosphere. Sustainable management of global freshwater resource issues requires not only a knowledge of hydroclimatic processes across a range of scales, but also the toolkit (models, remote monitoring networks, and computational frameworks) to explore potential solutions.</description>
+    </item>
+    
+    <item>
+      <title>Temp</title>
+      <link>https://craigbrinkerhoff.netlify.app/temp/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/temp/</guid>
+      <description>Just needed a public link for storing some images for a test. Nothing to see here…</description>
+    </item>
+    
+    <item>
+      <title>A Framework for Estimating Global River Discharge From the Surface Water and Ocean Topography Satellite Mission</title>
       <link>https://craigbrinkerhoff.netlify.app/publication/paper_6/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://craigbrinkerhoff.netlify.app/publication/paper_6/</guid>
       <description>DOIhttps://doi.org/10.1029/2021WR031614
 JournalWater Resources Research
-AuthorsDurand, Michael, Gleason, Colin J., Pavelsky, Tamlin M., de Prata Moraes Frasson, Renato, Turmon, Michael, David, C&#39;edric H., Altenau, Elizabeth H., Tebaldi, Nikki, Larnier, Kevin, Monnier, Jerome, Malaterre, Pierre Olivier, Oubanas, Hind, Allen, George H., Astifan, Brian, Brinkerhoff, Craig, Bates, Paul D., Bjerklie, David, Coss, Stephen, Dudley, Robert, Fenoglio, Luciana, Garambois, Pierre-Andr&#39;e, Getirana, Augusto, Lin, Peirong, Margulis, Steven A., Matte, Pascal, Minear, J.</description>
+AuthorsDurand, Michael, Gleason, Colin J., Pavelsky, Tamlin M., Prata de Moraes Frasson, Renato, Turmon, Michael, David, C&#39;edric H., Altenau, Elizabeth H., Tebaldi, Nikki, Larnier, Kevin, Monnier, Jerome, Malaterre, Pierre Olivier, Oubanas, Hind, Allen, George H., Astifan, Brian, Brinkerhoff, Craig, Bates, Paul D., Bjerklie, David, Coss, Stephen, Dudley, Robert, Fenoglio, Luciana, Garambois, Pierre-Andr&#39;e, Getirana, Augusto, Lin, Peirong, Margulis, Steven A., Matte, Pascal, Minear, J.</description>
     </item>
     
     <item>
@@ -84,32 +124,51 @@ AbstractThe relative capacity for watersheds to eliminate or export reactive co
       <guid>https://craigbrinkerhoff.netlify.app/publication/paper_10/</guid>
       <description>DOIhttps://doi.org/10.1073/pnas.2106322119
 JournalProceedings of the National Academy of Sciences
-AuthorsLiu, S., Kuhn, C., Amatulli, G., Aho, K.S., Butman, D.E., Allen, G.H., Lin, P., Pan, M., Yamazaki, D., Brinkerhoff, C.B., Gleason, C.J., Xia, W., Raymond, P.A.
-AbstractThe magnitude of stream and river carbon dioxide (CO2) emission is affected by seasonal changes in watershed biogeochemistry and hydrology. Global estimates of this flux are, however, uncertain, relying on calculated values for CO2 and lacking spatial accuracy or seasonal variations critical for understanding macroecosystem controls of the flux.</description>
+AuthorsLiu, Shaoda, Kuhn, Catherine, Amatulli, Giuseppe, Aho, Kelly, Butman, David E., Allen, George H., Lin, Peirong, Pan, Ming, Yamazaki, Dai, Brinkerhoff, C.B., Gleason, Colin, Xia, Xinghui, Raymond, Peter A.
+AbstractNA</description>
+    </item>
+    
+    <item>
+      <title>BIKER</title>
+      <link>https://craigbrinkerhoff.netlify.app/software/biker/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/software/biker/</guid>
+      <description>BIKER (“Bayesian Inference of the K600 Evasion Rate”) enables inference of the normalized riverine gas exchange velocity from measurements of river surface width and height/slope. It does so using Bayesian inference and a Hamiltonian Monte Carlo sampler to generate a posterior distribution for a gas exchange model. BIKER was developed in the context of the upcoming NASA/CNES SWOT mission.</description>
+    </item>
+    
+    <item>
+      <title>SARNr</title>
+      <link>https://craigbrinkerhoff.netlify.app/software/sarnr/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/software/sarnr/</guid>
+      <description>SARNr is an R implementation of a modified version of the SARN algorithm. The original SARN algorithm is an Arcpy script developed by Xin Lu and Kang Yang at Nanjing University to map actively flowing drainage networks by combining Sentinel-2 water masks and a DEM-based river network. See the below paper for more.
+Lu, X., Yang, K., Lu, Y., Gleason, C.J., Smith, L.C., &amp;amp; Li, M. (2020). Small Arctic rivers mapped from Sentinel-2 satellite imagery and ArcticDEM.</description>
     </item>
     
     <item>
       <title>Does Photomineralization of Dissolved Organics Matter in Temperate Rivers</title>
       <link>https://craigbrinkerhoff.netlify.app/publication/paper_11/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://craigbrinkerhoff.netlify.app/publication/paper_11/</guid>
       <description>DOIhttps://doi.org/10.1029/2021JG006402
 JournalJournal of Geophysical Research: Biogeosciences
-AuthorsMaavara, T.M., Logozzo, L., Stubbins, A., Aho, K.S., Brinkerhoff, C.B., Hosen, J., Raymond, P.A
+AuthorsMaavara, Taylor, Logozzo, Laura, Stubbins, Aron, Aho, Kelly, Brinkerhoff, Craig, Hosen, Jacob, Raymond, Peter
 AbstractSunlight can oxidize dissolved organic carbon (DOC) to dissolved inorganic carbon (DIC) in freshwaters. The importance of complete photooxidation, or photomineralization, as a sink for DOC remains unclear in temperate rivers, as most estimates are restricted to lakes, high latitude rivers, and coastal river plumes. In this study, we construct a model representing over 75,000 river reaches in the Connecticut River Watershed (CRW), USA, to calculate spectrally resolved photomineralization.</description>
     </item>
     
     <item>
       <title>Exploring the Factors Controlling the Error Characteristics of the Surface Water and Ocean Topography Mission Discharge Estimates</title>
       <link>https://craigbrinkerhoff.netlify.app/publication/paper_7/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://craigbrinkerhoff.netlify.app/publication/paper_7/</guid>
       <description>DOIhttps://doi.org/10.1029/2020WR028519
 JournalWater Resources Research
-AuthorsFrasson, R.P.M., Durand, M.T., Larnier, K., Gleason, C.J., Andreadis, K.M., Hagemann, M., Dudley, R., Bjerklie, D., Oubanas, H., Garambois, P.A., Malaterre, P.O., Lin, P., Pavelsky, T.M., Monnier, J., Brinkerhoff, C.B., David, C&#39;edric H.
-AbstractThe Surface Water and Ocean Topography (SWOT) satellite mission will measure river width, water surface elevation, and slope for rivers wider than 50 m. SWOT observations will enable estimation of river discharge by using simple flow laws such as the Manning-Strickler equation, complementing in situ streamgages.</description>
+AuthorsFrasson, Renato Prata de Moraes, Durand, Michael T., Larnier, Kevin, Gleason, Colin, Andreadis, Konstantinos M., Hagemann, Mark, Dudley, Robert, Bjerklie, David, Oubanas, Hind, Garambois, Pierre-Andr&#39;e, Malaterre, Pierre-Olivier, Lin, Peirong, Pavelsky, Tamlin M., Monnier, J&#39;er^ome, Brinkerhoff, Craig B., David, C&#39;edric H.
+AbstractThe Surface Water and Ocean Topography (SWOT) satellite mission will measure river width, water surface elevation, and slope for rivers wider than 50 m.</description>
     </item>
     
     <item>
@@ -146,6 +205,17 @@ AbstractRecent advances in remote sensing and the upcoming launch of the joint 
 JournalWater Resources Research
 AuthorsAndreadis, K. M., Brinkerhoff, C. B., Gleason, C. J.
 AbstractThe Surface Water Ocean Topography (SWOT) satellite mission expected to launch in 2021 will offer a unique opportunity to map river discharge at an unprecedented spatial resolution globally from observations of water surface elevation, width, and slope. Because river discharge will not be directly observed from SWOT, a number of algorithms of varying complexity have been developed to estimate discharge from SWOT observables.</description>
+    </item>
+    
+    <item>
+      <title>geoBAMr</title>
+      <link>https://craigbrinkerhoff.netlify.app/software/geobamr/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/software/geobamr/</guid>
+      <description>geoBAMr An update to bamr that uses more geomorphically-informed prior knowledge for discharge inversion.
+From bamr: “The bamr package facilitates Bayesian AMHG + Manning discharge estimation using stream slope, width, and partial cross-section area. It includes functions to preprocess and visualize data, perform Bayesian inference using Hamiltonian Monte Carlo (via models pre-written in the Stan language), and analyze the results.”
+geoBAMr expands upon this project by defining prior river knowledge using river classification frameworks.</description>
     </item>
     
     <item>

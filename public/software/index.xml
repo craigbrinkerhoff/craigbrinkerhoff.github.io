@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softwares on Craig Brinkerhoff</title>
+    <link>https://craigbrinkerhoff.netlify.app/software/</link>
+    <description>Recent content in Softwares on Craig Brinkerhoff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>©craigbrinkerhoff</copyright>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://craigbrinkerhoff.netlify.app/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BIKER</title>
+      <link>https://craigbrinkerhoff.netlify.app/software/biker/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/software/biker/</guid>
+      <description>BIKER (“Bayesian Inference of the K600 Evasion Rate”) enables inference of the normalized riverine gas exchange velocity from measurements of river surface width and height/slope. It does so using Bayesian inference and a Hamiltonian Monte Carlo sampler to generate a posterior distribution for a gas exchange model. BIKER was developed in the context of the upcoming NASA/CNES SWOT mission.</description>
+    </item>
+    
+    <item>
+      <title>SARNr</title>
+      <link>https://craigbrinkerhoff.netlify.app/software/sarnr/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/software/sarnr/</guid>
+      <description>SARNr is an R implementation of a modified version of the SARN algorithm. The original SARN algorithm is an Arcpy script developed by Xin Lu and Kang Yang at Nanjing University to map actively flowing drainage networks by combining Sentinel-2 water masks and a DEM-based river network. See the below paper for more.
+Lu, X., Yang, K., Lu, Y., Gleason, C.J., Smith, L.C., &amp;amp; Li, M. (2020). Small Arctic rivers mapped from Sentinel-2 satellite imagery and ArcticDEM.</description>
+    </item>
+    
+    <item>
+      <title>geoBAMr</title>
+      <link>https://craigbrinkerhoff.netlify.app/software/geobamr/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/software/geobamr/</guid>
+      <description>geoBAMr An update to bamr that uses more geomorphically-informed prior knowledge for discharge inversion.
+From bamr: “The bamr package facilitates Bayesian AMHG + Manning discharge estimation using stream slope, width, and partial cross-section area. It includes functions to preprocess and visualize data, perform Bayesian inference using Hamiltonian Monte Carlo (via models pre-written in the Stan language), and analyze the results.”
+geoBAMr expands upon this project by defining prior river knowledge using river classification frameworks.</description>
+    </item>
+    
+  </channel>
+</rss>

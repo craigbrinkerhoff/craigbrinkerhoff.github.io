@@ -1,21 +1,21 @@
 ---
-title: About Me
+title: About me
 author: Craig Brinkerhoff
-date: "2023-03-22"
+date: "2024-03-12"
 ---
 
 <center>
-![](pic1.jpg){ width=20% }
-![](pic2.jpg){ width=20% }
+
+![](pic.jpg){width=80%}
+
 </center>
 
-I'm a PhD candidate and a computational hydrologist interested in global surface water quantity and quality. I use and develop remote sensing, in situ sensing, geomorphic scaling, and river transport modeling to measure water/solute transport through the world’s drainage systems. A unique component of my work is bringing together ideas from river hydrology, geomorphology, and limnology within large computing projects. See my [Research](/research/) page for more details!!
+I'm a computational hydrologist interested in global surface water quantity and quality, approaching global hydrology through the lens of river science, modeling, and satellite remote sensing. See my [research](/research/) page for more!!
 
-## Current home
-<a href="https://blogs.umass.edu/cjgleason/" target="_blank">Fluvial@UMass</a>
+current home: <a href="https://blogs.umass.edu/cjgleason/" target="_blank">fluvial@umass</a>
 
-## Links
-<a href="https://scholar.google.com/citations?user=PSOHzbQAAAAJ&hl=en" target="_blank">Google Scholar</a> <a href="https://github.com/craigbrinkerhoff" target="_blank">Github</a> <a href="https://twitter.com/Craigbrinkerhof" target="_blank">Twitter</a>
+past home: <a href="https://wp.geog.mcgill.ca/hydrolab/" target="_blank">global hydrolab</a>
 
-## Contact
-cbrinkerhoff [at] umass [dot] edu
+personal: <a href="https://scholar.google.com/citations?user=PSOHzbQAAAAJ&hl=en" target="_blank">google scholar</a> <a href="https://github.com/craigbrinkerhoff" target="_blank">github</a> <a href="https://linkedin.com/in/brinkerhoff" target="_blank">linkedin</a>
+
+contact: cbrinkerhoff [at] umass [dot] edu

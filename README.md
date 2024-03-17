@@ -7,3 +7,4 @@ This repo is for my personal website [here](https://craigbrinkerhoff.netlify.app
 - *.Rprofile* should auto-load `blogdown` and some other helpful settings.
 - Homepage modified from archie via [this](https://gohugo.io/templates/homepage/).
 - Single pages modified to not show the blog post date
+- `~/assets/` is a copy of `~/themes/archie/assets/`, so that i can modify the colors in `~/main.css`. Blogdown will override the directories within a theme using identical directories in the main repo.
