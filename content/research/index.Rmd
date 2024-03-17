@@ -6,9 +6,9 @@ output: html_document
 ---
 <center>
 ![](stream_to_ocean_observation_system_vector.png)
-<p>2023 &#169;craigbrinkerhoff</p>
+<p>2024 &#169;craigbrinkerhoff</p>
 </center>
-Drainage networks are the arteries of the continents, an interconnected network of rivers, streams, lakes, reservoirs, wetlands, and more that drain the land surface and transport water, sediments, nutrients, and other ‘stuff’ downstream or to the atmosphere. Sustainable management of global freshwater resource issues requires not only a knowledge of hydroclimatic processes across a range of scales, but also the toolkit (models, remote monitoring networks, and computational frameworks) to explore potential solutions. My work seeks to build this toolkit by taking a broad, cross-disciplinary approach to surface hydrology. I develop and combine (1) remote sensing algorithms, (2) numerical transport models, and (3) hydrological connectivity and hydraulic geometry theories to better understand global surface water and nutrient cycling. **Approaching global hydrology and biogeochemistry this way (through the lens of multidisciplinary river science) provides a framework- and the computational toolkit- necessary to sustainably manage global freshwater resources.**
+Drainage networks are the arteries of the continents, an interconnected network of rivers, streams, lakes, reservoirs, wetlands, and more that drain the land surface and transport water, nutrients, and other ‘stuff’ downstream or to the atmosphere. Sustainable management of global freshwater resources requires not only a knowledge of hydroclimatic processes across a range of scales, but also the tools (models, computational frameworks, and river science theories) to explore potential solutions. To achieve this, my work takes a broad, cross-disciplinary approach to surface hydrology. I develop and combine (1) remote sensing algorithms, (2) numerical transport models, (3) syntheses of large in situ databases, and (4) river science theories to better understand global surface water and nutrient cycling. **Approaching global hydrology this way (through the lens of multidisciplinary river science) provides a framework for taking the pulse of the world's rivers to better inform water resources science and management.**
 
 -------------------------------
 
@@ -17,8 +17,8 @@ Drainage networks are the arteries of the continents, an interconnected network 
 - What new knowledge do these measurements reveal about global hydrology?
 - **Representative papers:**
   - [Constraining remote river discharge estimation using reach-scale geomorphology](https://doi.org/10.1029/2020WR027949)
-  - [Inversion of river discharge from remotely sensed river widths: A critical assessment at three-thousand global river gauges](https://doi.org/10.1016/j.rse.2023.113489)
   - [Remotely sensing river greenhouse gas exchange velocity using the SWOT satellite](https://doi.org/10.1029/2022GB007419)
+  - [A Framework for Estimating Global River Discharge From the Surface Water and Ocean Topography Satellite Mission](https://doi.org/10.1029/2021WR031614)
 
 ## Transporting 'stuff' downstream
 - How do organic matter, pollutants, and other elements move through drainage systems?
