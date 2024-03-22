@@ -34,3 +34,7 @@ menu:
 #    - name: Software
 #      url: /software
 #      weight: 4
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
