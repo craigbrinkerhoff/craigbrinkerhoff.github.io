@@ -17,9 +17,9 @@ bibtexScraper <- function(i){
 
   # load in bibtex
   papers <- bib2df('my_papers.bib')
-  #urls <- as.character(papers$URL)
-  
-  paper <- papers[i,]#dplyr::filter(papers, URL==i)
+  papers <- papers[order(papers$YEAR, papers$MONTH),] #sort by pub month and year before indexing. This makes sure we don't change the order of papers when we add new ones to the bib file
+
+  paper <- papers[i,]
     
   #handle DOIS leading with https
   doi <- paper$DOI

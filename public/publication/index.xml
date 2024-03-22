@@ -16,51 +16,51 @@
       <guid>https://craigbrinkerhoff.netlify.app/publication/paper_13/</guid>
       <description>DOIhttps://doi.org/10.1029/2023GL103924
 JournalGeophysical Research Letters
-AuthorsRiggs, Ryan M., Allen, George H., Brinkerhoff, Craig B., Sikder, Md. Safat, Wang, Jida
+AuthorsRiggs, R.M., Allen, G.H., Brinkerhoff, C.B., Sikder, Md.S., Wang, J.
 AbstractRivers and lakes are intrinsically connected waterbodies yet they are rarely used to hydrologically constrain one another with remote sensing. Here we begin to bridge the gap between river and lake hydrology with the introduction of the LakeFlow algorithm. LakeFlow uses river-lake mass conservation and observations from the Surface Water and Ocean Topography (SWOT) satellite to provide river discharge estimates of lake and reservoir inflows and outflows.</description>
     </item>
     
     <item>
       <title>A Framework for Estimating Global River Discharge From the Surface Water and Ocean Topography Satellite Mission</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_6/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_12/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_6/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_12/</guid>
       <description>DOIhttps://doi.org/10.1029/2021WR031614
 JournalWater Resources Research
-AuthorsDurand, Michael, Gleason, Colin J., Pavelsky, Tamlin M., Prata de Moraes Frasson, Renato, Turmon, Michael, David, C&#39;edric H., Altenau, Elizabeth H., Tebaldi, Nikki, Larnier, Kevin, Monnier, Jerome, Malaterre, Pierre Olivier, Oubanas, Hind, Allen, George H., Astifan, Brian, Brinkerhoff, Craig, Bates, Paul D., Bjerklie, David, Coss, Stephen, Dudley, Robert, Fenoglio, Luciana, Garambois, Pierre-Andr&#39;e, Getirana, Augusto, Lin, Peirong, Margulis, Steven A., Matte, Pascal, Minear, J.</description>
+AuthorsDurand, M. T., Gleason, C.J., Pavelsky, T. M., Frasson, R. P. M., Turmon, M., David, C.H., Altenau, E. H., Tebaldi, N., Larnier, K., Monnier, J., Malaterre, P.O., Oubanas, H., Allen, G.H., Astifan, B., Brinkerhoff, C.B., Bates, P.D., Bjerklie, D., Coss, S., Dudley, R., Fenoglio, L., Garambois, P.-A., Getirana, A., Lin, P., Margulis, S.A., Matte, P., Minear, J.T., Muhebwa, A., Pan, M., Peters, D.</description>
     </item>
     
     <item>
       <title>Inversion of River Discharge from Remotely Sensed River Widths: A Critical Assessment at Three-Thousand Global River Gauges</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_8/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_10/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_8/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_10/</guid>
       <description>DOIhttps://doi.org/10.1016/j.rse.2023.113489
 JournalRemote Sensing of Environment
-AuthorsLin, P., Feng, D., Gleason, C.J., Pan, M., Brinkerhoff, C.B., Yang, X., Beck, H.E., Frasson, R.P.M
+AuthorsLin, P., Feng, D., Gleason, C.J., Pan, M., Brinkerhoff, C.B., Yang, X., Beck, H.E., Frasson, R. P. M.
 AbstractAccurately estimating river discharge from satellite-derived river hydraulic variables (e.g., width, height, and slope) is the overarching goal of the remote sensing of discharge (RSQ) community. Numerous past studies have developed and intercompared different RSQ algorithms to demonstrate their feasibility, yet relatively few have focused on assessing how the RSQ algorithms are adapted to a wide range of rivers globally.</description>
     </item>
     
     <item>
       <title>Watershed DOC Uptake Occurs Mostly in Lakes in the Summer and in Rivers in the Winter</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_12/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_11/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_12/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_11/</guid>
       <description>DOIhttps://doi.org/10.1002/lno.12306
 JournalLimnology and Oceanography
-AuthorsMaavara, Taylor, Brinkerhoff, Craig, Hosen, Jacob, Aho, Kelly, Logozzo, Laura, Saiers, James, Stubbins, Aron, Raymond, Peter
+AuthorsMaavara, T.M., Brinkerhoff, C.B., Hosen, J.D., Aho, K.S., Logozzo, L.A., Saiers, J.E., Stubbins, A., Raymond, P.A.
 AbstractRiver networks transport dissolved organic carbon (DOC) from terrestrial uplands to the coastal ocean. The extent to which a reach or lake within a river network uptakes DOC depends on the stream order, the seasonal conditions, and the flow. At the watershed scale, it remains unclear whether DOC uptake is dominated by biological processes such as respiration, or abiotic processes like photomineralization.</description>
     </item>
     
     <item>
       <title>Remotely Sensing River Greenhouse Gas Exchange Velocity Using the SWOT Satellite</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_5/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_9/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_5/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_9/</guid>
       <description>DOIhttps://doi.org/10.1029/2022GB007419
 JournalGlobal Biogeochemical Cycles
 AuthorsBrinkerhoff, C.B., Gleason, C.J., Zappa, C.J., Raymond, P.A., Harlan, M.E.
@@ -69,10 +69,10 @@ AbstractTwo decades of research has shown that the global river network emits s
     
     <item>
       <title>Global Controls on DOC Reaction Versus Export in Watersheds: A Damk&#34;ohler Number Analysis</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_9/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_7/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_9/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_7/</guid>
       <description>DOIhttps://doi.org/10.1029/2021GB007278
 JournalGlobal Biogeochemical Cycles
 AuthorsLiu, S., Maavara, T.M., Brinkerhoff, C.B., Raymond, P.A.
@@ -81,82 +81,82 @@ AbstractThe relative capacity for watersheds to eliminate or export reactive co
     
     <item>
       <title>The Importance of Hydrology in Routing Terrestrial Carbon to the Atmosphere via Global Streams and Rivers</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_10/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_8/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_10/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_8/</guid>
       <description>DOIhttps://doi.org/10.1073/pnas.2106322119
 JournalProceedings of the National Academy of Sciences
-AuthorsLiu, Shaoda, Kuhn, Catherine, Amatulli, Giuseppe, Aho, Kelly, Butman, David E., Allen, George H., Lin, Peirong, Pan, Ming, Yamazaki, Dai, Brinkerhoff, C.B., Gleason, Colin, Xia, Xinghui, Raymond, Peter A.
-AbstractNA</description>
+AuthorsLiu, S., Kuhn, C., Amatulli, G., Aho, K.S., Butman, D.E., Allen, G.H., Lin, P., Pan, M., Yamazaki, D., Brinkerhoff, C.B., Gleason, C.J., Xia, X., Raymond, P.A.
+AbstractThe magnitude of stream and river carbon dioxide (CO2) emission is affected by seasonal changes in watershed biogeochemistry and hydrology. Global estimates of this flux are, however, uncertain, relying on calculated values for CO2 and lacking spatial accuracy or seasonal variations critical for understanding macroecosystem controls of the flux.</description>
     </item>
     
     <item>
       <title>Does Photomineralization of Dissolved Organics Matter in Temperate Rivers</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_11/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_5/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_11/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_5/</guid>
       <description>DOIhttps://doi.org/10.1029/2021JG006402
 JournalJournal of Geophysical Research: Biogeosciences
-AuthorsMaavara, Taylor, Logozzo, Laura, Stubbins, Aron, Aho, Kelly, Brinkerhoff, Craig, Hosen, Jacob, Raymond, Peter
+AuthorsMaavara, T., Logozzo, L.A., Stubbins, A., Aho, K.S., Brinkerhoff, C.B., Hosen, J.D., Raymond, P.A.
 AbstractSunlight can oxidize dissolved organic carbon (DOC) to dissolved inorganic carbon (DIC) in freshwaters. The importance of complete photooxidation, or photomineralization, as a sink for DOC remains unclear in temperate rivers, as most estimates are restricted to lakes, high latitude rivers, and coastal river plumes. In this study, we construct a model representing over 75,000 river reaches in the Connecticut River Watershed (CRW), USA, to calculate spectrally resolved photomineralization.</description>
     </item>
     
     <item>
       <title>Exploring the Factors Controlling the Error Characteristics of the Surface Water and Ocean Topography Mission Discharge Estimates</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_7/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_6/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_7/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_6/</guid>
       <description>DOIhttps://doi.org/10.1029/2020WR028519
 JournalWater Resources Research
-AuthorsFrasson, Renato Prata de Moraes, Durand, Michael T., Larnier, Kevin, Gleason, Colin, Andreadis, Konstantinos M., Hagemann, Mark, Dudley, Robert, Bjerklie, David, Oubanas, Hind, Garambois, Pierre-Andr&#39;e, Malaterre, Pierre-Olivier, Lin, Peirong, Pavelsky, Tamlin M., Monnier, J&#39;er^ome, Brinkerhoff, Craig B., David, C&#39;edric H.
-AbstractThe Surface Water and Ocean Topography (SWOT) satellite mission will measure river width, water surface elevation, and slope for rivers wider than 50 m.</description>
+AuthorsFrasson, R. P. M., Durand, M.T., Larnier, K., Gleason, C.J., Andreadis, K.M., Hagemann, M. W., Dudley, R., Bjerklie, D., Oubanas, H., Garambois, P.-A., Malaterre, P.O., Lin, P., Pavelsky, T. M., Monnier, J., Brinkerhoff, C.B., David, C.H.
+AbstractThe Surface Water and Ocean Topography (SWOT) satellite mission will measure river width, water surface elevation, and slope for rivers wider than 50–100 m. SWOT observations will enable estimation of river discharge by using simple flow laws such as the Manning-Strickler equation, complementing in situ streamgages.</description>
     </item>
     
     <item>
       <title>Lake Morphometry and River Network Controls on Evasion of Terrestrially Sourced Headwater CO2</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_3/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_4/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_3/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_4/</guid>
       <description>DOIhttps://doi.org/10.1029/2020GL090068
 JournalGeophysical Research Letters
-AuthorsBrinkerhoff, C.B., Raymond, P. A., Maavara, T., Ishitsuka, Y., Aho, K. S., Gleason, C. J.
+AuthorsBrinkerhoff, C.B., Raymond, P.A., Maavara, T.M., Ishitsuka, Y., Aho, K. S., Gleason, C. J.
 AbstractLakes are central components of the inland water system distinct from, yet inextricably connected to, river networks. Currently, existing network-scale biogeochemistry research, although robust, typically treats each of these components separately or reductively. Here, we incorporate lake morphometry into a fully connected stream/lake network for the Connecticut River watershed and model potential evasion of terrestrially sourced headwater CO2 as transported through the network, ignoring in-stream production.</description>
     </item>
     
     <item>
       <title>Constraining Remote River Discharge Estimation Using Reach-Scale Geomorphology</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_2/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_3/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_2/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_3/</guid>
       <description>DOIhttps://doi.org/10.1029/2020WR027949
 JournalWater Resources Research
 AuthorsBrinkerhoff, C.B., Gleason, C. J., Feng, D., Lin, P.
-AbstractRecent advances in remote sensing and the upcoming launch of the joint NASA/CNES/CSA/UKSA Surface Water and Ocean Topography (SWOT) satellite point toward improved river discharge estimates in ungauged basins. Existing discharge methods rely on prior river knowledge&#39;&#39; to infer parameters not directly measured from space. Here, we show that discharge estimation is improved by classifying and parameterizing rivers based on their unique geomorphology and hydraulics.</description>
+AbstractRecent advances in remote sensing and the upcoming launch of the joint NASA/CNES/CSA/UKSA Surface Water and Ocean Topography (SWOT) satellite point toward improved river discharge estimates in ungauged basins. Existing discharge methods rely on ‘prior river knowledge’ to infer parameters not directly measured from space. Here, we show that discharge estimation is improved by classifying and parameterizing rivers based on their unique geomorphology and hydraulics.</description>
     </item>
     
     <item>
       <title>Constraining the Assimilation of SWOT Observations With Hydraulic Geometry Relations</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_1/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_2/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_1/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_2/</guid>
       <description>DOIhttps://doi.org/10.1029/2019WR026611
 JournalWater Resources Research
-AuthorsAndreadis, K. M., Brinkerhoff, C. B., Gleason, C. J.
+AuthorsAndreadis, K.M., Brinkerhoff, C. B., Gleason, C. J.
 AbstractThe Surface Water Ocean Topography (SWOT) satellite mission expected to launch in 2021 will offer a unique opportunity to map river discharge at an unprecedented spatial resolution globally from observations of water surface elevation, width, and slope. Because river discharge will not be directly observed from SWOT, a number of algorithms of varying complexity have been developed to estimate discharge from SWOT observables.</description>
     </item>
     
     <item>
       <title>Reconciling At-a-Station and at-Many-Stations Hydraulic Geometry Through River-Wide Geomorphology</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_4/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_1/</link>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_4/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_1/</guid>
       <description>DOIhttps://doi.org/10.1029/2019GL084529
 JournalGeophysical Research Letters
 AuthorsBrinkerhoff, C.B., Gleason, C. J., Ostendorf, D. W.
