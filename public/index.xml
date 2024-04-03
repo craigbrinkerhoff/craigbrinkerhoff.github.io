@@ -9,6 +9,18 @@
     <copyright>©craigbrinkerhoff</copyright>
     <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://craigbrinkerhoff.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mapping Proglacial Headwater Streams in High Mountain Asia Using PlanetScope Imagery</title>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_14/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_14/</guid>
+      <description>DOIhttps://doi.org/10.1016/j.rse.2024.114124
+JournalRemote Sensing of Environment
+AuthorsFlores, J.A., Gleason, C.J., Brinkerhoff, C.B., Harlan, M.E., Lummus, M.M., Stearns, L.A., Feng, D.
+AbstractHeadwater streams transport nutrients, sediment, and mineral-rich groundwater downstream. In High Mountain Asia (HMA), headwater streams also funnel glacier and snow melt to sustain continuous water supply for the downstream region. These channels remain poorly mapped because of their inaccessibility and because they are smaller than the resolution of Landsat (30~m) and Sentinel-2 (10~m).</description>
+    </item>
+    
+    <item>
       <title>Curriculum vitae</title>
       <link>https://craigbrinkerhoff.netlify.app/cv/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
@@ -46,15 +58,6 @@ AbstractRivers and lakes are intrinsically connected waterbodies yet they are r
       
       <guid>https://craigbrinkerhoff.netlify.app/research/</guid>
       <description>2024 ©craigbrinkerhoffDrainage networks are the arteries of the continents, an interconnected network of rivers, streams, lakes, reservoirs, wetlands, and more that drain the land surface and transport water, nutrients, and other ‘stuff’ downstream or to the atmosphere. Sustainable management of global freshwater resources requires not only a knowledge of hydroclimatic processes across a range of scales, but also the tools (models, computational frameworks, and river science theories) to explore potential solutions.</description>
-    </item>
-    
-    <item>
-      <title>Temp</title>
-      <link>https://craigbrinkerhoff.netlify.app/temp/</link>
-      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://craigbrinkerhoff.netlify.app/temp/</guid>
-      <description>Just needed a public link for storing some images for a test. Nothing to see here…</description>
     </item>
     
     <item>

@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©craigbrinkerhoff</copyright>
-    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://craigbrinkerhoff.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://craigbrinkerhoff.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mapping Proglacial Headwater Streams in High Mountain Asia Using PlanetScope Imagery</title>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_14/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_14/</guid>
+      <description>DOIhttps://doi.org/10.1016/j.rse.2024.114124
+JournalRemote Sensing of Environment
+AuthorsFlores, J.A., Gleason, C.J., Brinkerhoff, C.B., Harlan, M.E., Lummus, M.M., Stearns, L.A., Feng, D.
+AbstractHeadwater streams transport nutrients, sediment, and mineral-rich groundwater downstream. In High Mountain Asia (HMA), headwater streams also funnel glacier and snow melt to sustain continuous water supply for the downstream region. These channels remain poorly mapped because of their inaccessibility and because they are smaller than the resolution of Landsat (30~m) and Sentinel-2 (10~m).</description>
+    </item>
+    
     <item>
       <title>Turning Lakes Into River Gauges Using the LakeFlow Algorithm</title>
       <link>https://craigbrinkerhoff.netlify.app/publication/paper_13/</link>
