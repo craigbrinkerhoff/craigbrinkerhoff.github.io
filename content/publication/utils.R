@@ -14,10 +14,12 @@
 bibtexScraper <- function(i){
   library(bib2df)
   library(stringr)
+  library(lubridate)
 
   # load in bibtex
   papers <- bib2df('my_papers.bib')
-  papers <- papers[order(papers$YEAR, papers$MONTH),] #sort by pub month and year before indexing. This makes sure we don't change the order of papers when we add new ones to the bib file
+  papers$sorting_date <- mdy(paste0(papers$MONTH, '/01/', '/', papers$YEAR))
+  papers <- papers[order(papers$sorting_date),] #sort by pub month and year before indexing. This makes sure we don't change the order of papers when we add new ones to the bib file
 
   paper <- papers[i,]
     
