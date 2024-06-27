@@ -8,13 +8,17 @@ output: html_document
 ![](stream_to_ocean_observation_system_vector.png)
 <p>2024 &#169;craigbrinkerhoff</p>
 </center>
-Drainage networks are the arteries of the continents, an interconnected network of rivers, streams, lakes, reservoirs, wetlands, and more that drain the land surface and transport water, nutrients, and other ‘stuff’ downstream or to the atmosphere. Sustainable management of global freshwater resources requires not only a knowledge of hydroclimatic processes across a range of scales, but also the tools (models, computational frameworks, and river science theories) to explore potential solutions. To achieve this, my work takes a broad, cross-disciplinary approach to surface hydrology. I develop and combine (1) remote sensing algorithms, (2) numerical transport models, (3) syntheses of large in situ databases, and (4) river science theories to better understand global surface water and nutrient cycling. **Approaching global hydrology this way (through the lens of multidisciplinary river science) provides a framework for taking the pulse of the world's rivers to better inform water resources science and management.**
+Drainage networks are the arteries of the continents, an interconnected network of rivers, streams, lakes, reservoirs, wetlands, and more that drain the land surface and transport water, nutrients, and other ‘stuff’ downstream or to the atmosphere. Sustainable management of global freshwater resources requires not only a knowledge of hydroclimatic processes across a range of scales, but also the tools (models, theories, and data) to explore potential solutions.
+
+To achieve this, my work takes a broad approach to global hydrology. I develop and combine (1) remote sensing algorithms, (2) numerical transport models, (3) syntheses of large in situ databases, and (4) river science theories to better understand global water and nutrient cycling. I have a particular interest in bringing together environmental data science and high-performance computing with theories learned from dyed-in-the-wool field science, leveraging both perspectives simultaneously to facilitate new knowledge and solutions to global freshwater issues.
+
+**Approaching global hydrology this way (through a lens of multidisciplinary, computational river science) provides a framework for taking the pulse of the world's rivers for sustainable water resource management.**
 
 -------------------------------
 
 ## Measuring rivers from space
 - What properties of global rivers can we measure using satellites?
-- What new knowledge do these measurements reveal about global hydrology?
+- What new knowledge do these measurements reveal about global water resources?
 - **Representative papers:**
   - [Constraining remote river discharge estimation using reach-scale geomorphology](https://doi.org/10.1029/2020WR027949)
   - [Remotely sensing river greenhouse gas exchange velocity using the SWOT satellite](https://doi.org/10.1029/2022GB007419)
@@ -24,13 +28,13 @@ Drainage networks are the arteries of the continents, an interconnected network 
 - How do organic matter, pollutants, and other elements move through drainage systems?
 - How does geomorphology and hydrology modulate downstream water quality?
 - **Representative papers:**
-  - [Lake morphometry and river network controls on evasion of terrestrially sourced headwater CO2](https://doi.org/10.1029/2020GL090068)
-  - [Watershed DOC uptake occurs mostly in lakes in the summer and in rivers in the winter](https://doi.org/10.1002/lno.12306)
+  - [Ephemeral stream water contributions to United States drainage networks](https://doi.org/10.1126/science.adg9430)
   - [Global controls on DOC reaction versus export in watersheds: A Damkhler number analysis](https://doi.org/10.1029/2021GB007278)
+  - [Lake morphometry and river network controls on evasion of terrestrially sourced headwater CO2](https://doi.org/10.1029/2020GL090068)
 
 ## Mapping the human footprint on global surface waters
-- What do the above techniques reveal about human impacts on hydrology?
-- How do both physical and political actors impact river water quality globally?
+- What do our tools reveal about human impacts on freshwater systems (and vice versa)?
+- How do hydrology and policy simultaneously impact water quantity and quality?
 - How far downstream are these impacts felt?
 - **Representative papers:**
   - In the pipeline...

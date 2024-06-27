@@ -8,8 +8,8 @@ Stay tuned for course materials I've developed...
 
 ## As instructor of record
 
-- UMass ENG-FYS 191: Engineering rivers and ecosystems
+- UMass 191: Engineering rivers and ecosystems
 
 ## As teaching assistant
 
-- UMass ENG-CEE 470/570: GIS for Engineers
+- UMass 470/570: GIS for Engineers
