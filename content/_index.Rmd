@@ -18,4 +18,4 @@ past homes: <a href="https://blogs.umass.edu/cjgleason/" target="_blank">fluvial
 
 personal: <a href="https://scholar.google.com/citations?user=PSOHzbQAAAAJ&hl=en" target="_blank">google scholar</a> <a href="https://orcid.org/0000-0001-6701-4835" target="_blank">orcid</a> <a href="https://github.com/craigbrinkerhoff" target="_blank">github</a> <a href="https://linkedin.com/in/brinkerhoff" target="_blank">linkedin</a>
 
-contact: cbrinkerhoff [at] umass [dot] edu (still in the transition to a Yale email!)
+contact: craig [dot] brinkerhoff [at] yale [dot] edu
