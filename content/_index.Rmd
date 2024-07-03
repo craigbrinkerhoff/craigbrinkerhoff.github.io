@@ -20,5 +20,5 @@ personal: <a href="https://scholar.google.com/citations?user=QeBtmYkAAAAJ&hl=en&
 
 contact: craig [dot] brinkerhoff [at] yale [dot] edu
 
-**You can access our recent ephemeral streams paper for free <a href="https://www.science.org/stoken/author-tokens/ST-1957/full" target="_blank">here</a>**
+**You can access our recent ephemeral streams paper <a href="https://www.science.org/stoken/author-tokens/ST-1957/full" target="_blank">here</a>**
 
