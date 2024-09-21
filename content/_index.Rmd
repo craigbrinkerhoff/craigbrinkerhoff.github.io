@@ -1,7 +1,7 @@
 ---
 title: About me
 author: Craig Brinkerhoff
-date: "08-30-2024"
+date: "09-20-2024"
 ---
 
 <center>
@@ -10,7 +10,7 @@ date: "08-30-2024"
 
 </center>
 
-I'm a computational hydrologist interested in global surface water quantity and quality, approaching water resources engineering through the lens of river science, modeling, and remote sensing. See my [research](/research/) page for more!!
+I'm a computational hydrologist interested in global surface water quantity and quality, approaching water resources through the lens of river science, modeling, and remote sensing. See my [research](/research/) page for more!!
 
 current home: <a href="https://environment.yale.edu/" target="_blank">yse</a>/<a href="https://yibs.yale.edu/" target="_blank">yibs</a>
 
@@ -19,6 +19,3 @@ past homes: <a href="https://blogs.umass.edu/cjgleason/" target="_blank">fluvial
 personal: <a href="https://scholar.google.com/citations?user=QeBtmYkAAAAJ&hl=en&oi=ao" target="_blank">google scholar</a> <a href="https://orcid.org/0000-0001-6701-4835" target="_blank">orcid</a> <a href="https://github.com/craigbrinkerhoff" target="_blank">github</a> <a href="https://linkedin.com/in/brinkerhoff" target="_blank">linkedin</a>
 
 contact: craig [dot] brinkerhoff [at] yale [dot] edu
-
-**You can access our recent ephemeral streams paper <a href="https://www.science.org/stoken/author-tokens/ST-1957/full" target="_blank">here</a>**
-
