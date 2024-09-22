@@ -8,33 +8,32 @@ output: html_document
 ![](stream_to_ocean_observation_system_vector.png)
 <p>2024 &#169;craigbrinkerhoff</p>
 </center>
-Drainage networks are the arteries of the continents, an interconnected network of rivers, streams, lakes, wetlands, and more that drain the land surface and transport water and nutrients downstream. River science draws on hydrology, geomorphology, ecology, biogeochemistry, and engineering to take a broad approach to studying drainage networks and water resources.
+Drainage networks are the arteries of the continents, an interconnected network of rivers, streams, lakes, wetlands, and more that drain the land surface and transport water and nutrients downstream. River science draws on hydrology, geomorphology, ecology, geochemistry, and engineering to take a broad approach to studying drainage networks and water resources.
 
-But what would river science look like globally? It is impossible to constrain hydrology using in situ sensors because we cannot install them in every river on Earth. An alternative is to measure large areas all at once using satellites to ‘fill in the gaps’, but they have varying spatial and temporal resolutions. And while numerical modeling may provide continuous simulations, these are not direct observations. Finally, despite much progress there is still a disconnect between our small-scale process understanding, its integration into global models, and the use of these models for water resource management. All told, these limitations have downstream effects on what river science questions we can answer at scale, which in turn hampers our ability to understand and manage global freshwater resource issues.
+But what would river science look like globally? It is impossible to constrain hydrology using in situ sensors because we cannot install them in every river on Earth. An alternative is to measure large areas all at once using satellites to ‘fill in the gaps’, but they have varying spatial and temporal resolutions. And while numerical modeling may provide continuous simulations, these are not direct observations. Finally, despite much progress there is still a disconnect between our small-scale process understanding, its integration into global models, and the use of these models for water resources. All told, these limitations have downstream effects on what river science questions we can answer at scale, which in turn hampers our ability to understand and manage global freshwater resource issues.
 
-My work reconciles this problem by integrating all the above approaches simultaneously to answer a single research question: “how could fundamental river science improve our understanding of global freshwater resources and our ability to sustainably manage them?”. To do this, I (1) develop remote sensing algorithms, machine learning, and transport models for river systems, (2) develop fundamental river science theory, and (3) work directly with field scientists, engineers, and policy researchers to develop an integrated assessment of water resources.
+My work reconciles this problem by integrating all the above approaches to answer a single research question: “how could fundamental river science improve our understanding of global hydrology and in turn our ability to sustainably manage freshwater resources?”. To do this, I (1) develop remote sensing algorithms, machine learning, and transport models for river systems, (2) develop fundamental river science theory, and (3) work directly with field scientists, engineers, and policy researchers to develop an integrated global assessment of hydrological phenomena.
 
 -------------------------------
 
 ## Measuring rivers from space
 - What properties of global rivers can we measure using satellites?
-- What new knowledge do these measurements reveal about global water resources?
+- What new hydrological knowledge do these measurements reveal?
 - **Representative papers:**
   - [Constraining remote river discharge estimation using reach-scale geomorphology](https://doi.org/10.1029/2020WR027949)
   - [Remotely sensing river greenhouse gas exchange velocity using the SWOT satellite](https://doi.org/10.1029/2022GB007419)
   - [A Framework for Estimating Global River Discharge From the Surface Water and Ocean Topography Satellite Mission](https://doi.org/10.1029/2021WR031614)
 
 ## Transporting 'stuff' downstream
-- How do organic matter, pollutants, and other elements move through drainage systems?
-- How does geomorphology and hydrology modulate downstream water quality?
+- How do organic matter, pollutants, and other materials move through drainage systems?
+- How does geomorphology and hydrology modulate downstream transport?
 - **Representative papers:**
   - [Ephemeral stream water contributions to United States drainage networks](https://doi.org/10.1126/science.adg9430)
   - [Global controls on DOC reaction versus export in watersheds: A Damkhler number analysis](https://doi.org/10.1029/2021GB007278)
   - [Lake morphometry and river network controls on evasion of terrestrially sourced headwater CO2](https://doi.org/10.1029/2020GL090068)
 
 ## Mapping the human footprint on global surface waters
-- What do our tools reveal about human impacts on freshwater systems (and vice versa)?
-- How do hydrology and policy simultaneously impact water quantity and quality?
+- What do these tools reveal about human impacts on freshwater systems (and vice versa)?
 - How far downstream are these impacts felt?
 - **Representative papers:**
   - In the pipeline...
