@@ -10,7 +10,7 @@ date: "09-20-2024"
 
 </center>
 
-I'm a computational hydrologist interested in global surface water quantity and quality, approaching water resources through the lens of river science, modeling, and remote sensing. See my [research](/research/) page for more!!
+I'm a hydrologist interested in global surface water quantity and quality, approaching water resources through the lens of river science, geospatial data science, and remote sensing. See my [research](/research/) page for more!!
 
 current home: <a href="https://environment.yale.edu/" target="_blank">yse</a>/<a href="https://yibs.yale.edu/" target="_blank">yibs</a>
 
