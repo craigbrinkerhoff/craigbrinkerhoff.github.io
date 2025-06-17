@@ -1,0 +1,10 @@
+---
+title: East River Preserve Experiment
+author: Craig Brinkerhoff
+date: "06-17-2025"
+categories: ["R"]
+tags: ["EastRiverPreserve"]
+---
+<center>
+<iframe src="EastRiverPreserve.pdf" width="100%" height="800px"></iframe>
+</center>
