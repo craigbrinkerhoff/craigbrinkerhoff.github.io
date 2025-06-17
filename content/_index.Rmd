@@ -10,7 +10,7 @@ date: "09-20-2024"
 
 </center>
 
-I'm a hydrologist interested in global surface water quantity and quality, approaching water resources through the lens of river science, geospatial data science, and remote sensing. See my [research](/research/) page for more!!
+I’m a river scientist and fluvial hydrologist interested in transport processes, broadly defined and at large scales. To do this I use geospatial data science, machine learning, remote sensing, and in situ studies. See my [research](/research/) page for more!!
 
 current home: <a href="https://raymond-lab.yale.edu/" target="_blank">yse</a>/<a href="https://yibs.yale.edu/" target="_blank">yibs</a>
 
@@ -19,5 +19,3 @@ past homes: <a href="https://blogs.umass.edu/cjgleason/" target="_blank">fluvial
 personal: <a href="https://scholar.google.com/citations?user=QeBtmYkAAAAJ&hl=en&oi=ao" target="_blank">google scholar</a> <a href="https://orcid.org/0000-0001-6701-4835" target="_blank">orcid</a> <a href="https://github.com/craigbrinkerhoff" target="_blank">github</a> <a href="https://linkedin.com/in/brinkerhoff" target="_blank">linkedin</a>
 
 contact: craig [dot] brinkerhoff [at] yale [dot] edu
-
-**You can access our recent ephemeral streams paper for free <a href="https://www.science.org/stoken/author-tokens/ST-1957/full" target="_blank">here</a>**
