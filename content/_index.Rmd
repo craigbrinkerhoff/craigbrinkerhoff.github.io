@@ -6,13 +6,13 @@ date: "09-20-2024"
 
 <center>
 
-![](pic.jpg){width=80%}
+![](pic.jpg){width=45%} ![](pic2.jpg){width=45%}
 
 </center>
 
-I’m a river scientist and fluvial hydrologist interested in transport processes, broadly defined and at large scales. To do this I use geospatial data science, machine learning, remote sensing, and in situ studies. See my [research](/research/) page for more!!
+I’m a river scientist and water resources engineer working on problems in global hydrology. I'm particularly interested in fluvial transport phenomena, hydrologic connectivity, and hydraulic geometry (as revealed through remote sensing, machine learning, and in situ studies). See my [research](/research/) page for more!!
 
-current home: <a href="https://raymond-lab.yale.edu/" target="_blank">yse</a>/<a href="https://yibs.yale.edu/" target="_blank">yibs</a>
+current home: <a href="https://yibs.yale.edu/" target="_blank">yibs</a>/<a href="https://raymond-lab.yale.edu/" target="_blank">raymond lab</a>
 
 past homes: <a href="https://blogs.umass.edu/cjgleason/" target="_blank">fluvial@umass</a> <a href="https://wp.geog.mcgill.ca/hydrolab/" target="_blank">global hydrolab</a>
 
