@@ -40,10 +40,10 @@ bibtexScraper <- function(i){
   journal <- paper$JOURNAL
   journal <- str_remove_all(journal, '[}{}?¶Ãâ€œˆ’]')
   
-  months = 1:12
+  months <- c('01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12')
   names(months) = c('jan', 'feb', 'mar', 'apr', 'may','jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec')
-  month <- months[paper$MONTH]
-  month <- ifelse(nchar(month)==1, paste0('0',month), month)
+  month <- months[months == paper$MONTH]
+  #month <- ifelse(nchar(month)==1, paste0('0',month), month)
   date <- paste0(paper$YEAR, '-',month,'-01')
 
   #setup export object
