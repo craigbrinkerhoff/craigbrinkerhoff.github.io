@@ -31,9 +31,6 @@ menu:
     - name: teaching
       url: /teaching
       weight: 4
-#    - name: Software
-#      url: /software
-#      weight: 4
 markup:
   goldmark:
     renderer:

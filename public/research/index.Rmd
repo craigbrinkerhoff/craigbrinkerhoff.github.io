@@ -1,36 +1,45 @@
 ---
 title: "Research"
 author: "Craig Brinkerhoff"
-date: "2023-03-30"
+date: "2025-06-22"
 output: html_document
 ---
 <center>
-![](stream_to_ocean_observation_system_vector.png)
-<p>2024 &#169;craigbrinkerhoff</p>
+![](stream_to_ocean_observation_system_vector_v2.png)
+<p>2025 &#169;craigbrinkerhoff</p>
 </center>
-Drainage networks are the arteries of the continents, an interconnected network of rivers, streams, lakes, reservoirs, wetlands, and more that drain the land surface and transport water, nutrients, and other ‘stuff’ downstream or to the atmosphere. Sustainable management of global freshwater resources requires not only a knowledge of hydroclimatic processes across a range of scales, but also the tools (models, computational frameworks, and river science theories) to explore potential solutions. To achieve this, my work takes a broad, cross-disciplinary approach to surface hydrology. I develop and combine (1) remote sensing algorithms, (2) numerical transport models, (3) syntheses of large in situ databases, and (4) river science theories to better understand global surface water and nutrient cycling. **Approaching global hydrology this way (through the lens of multidisciplinary river science) provides a framework for taking the pulse of the world's rivers to better inform water resources science and management.**
+Drainage networks are the arteries of the continents, an interconnected network of rivers, streams, lakes, wetlands, and more that drain the land surface and transport water, sediments, and nutrients downstream. Rivers are the landscape's integrators, and exert a powerful influence on the ecosystems and communities through which they flow.
+
+To understand the role of rivers in Earth system cycling under global environmental change, I believe river science must take a broad, integrative approach that draws on multiple traditions while remaining strongly "data-driven". To do this, I develop geospatial machine learning and remote sensing methods while working directly with field and policy researchers throughout the pipeline. I have particular interests in fluvial transport, hydrological connectivity, hydraulic geometry, headwater systems, and global observational monitoring.
 
 -------------------------------
 
-## Measuring rivers from space
-- What properties of global rivers can we measure using satellites?
-- What new knowledge do these measurements reveal about global hydrology?
+## Constraining global river fluxes
+- What role do surface waters play in the global cycling of water, nutrients, and sediments?
+- What role do humans play in regulating these processes?
+- **Representative papers:**
+  - [Accelerating river discharge in High Mountain Asia]()
+  - [The importance of hydrology in routing terrestrial carbon to the atmosphere via global streams and rivers](https://doi.org/10.1073/pnas.2106322119)
+
+## Understanding the role of small streams
+- How much do the headwaters impact downstream rivers and watershed export?
+- What is the extent of headwater streams?
+- **Representative papers:**
+  - [Ephemeral stream water contributions to United States drainage networks](https://doi.org/10.1126/science.adg9430)
+  - [Detecting proglacial headwater streams in High Mountain Asia using Planet imagery](https://doi.org/10.1016/j.rse.2024.114124)
+
+## Understanding how 'stuff' moves downstream
+- How do organic matter, nutrients, and sediments move through watersheds?
+- How does hydrological connectivity impact water quantity and quality?
+- **Representative papers:**
+  - [The importance of source data in river network connectivity modeling: a review](https://doi.org/10.1002/lno.12706)
+  - [Towards modeling continental-scale inland water CO2 emissions](https://doi.org/10.1029/2024AV001294)
+  - [Global controls on DOC reaction versus export in watersheds: A Damköhler number analysis](https://doi.org/10.1029/2021GB007278)
+
+## Advancing global surface water monitoring
+- What river properties are remotely sensible?
+- What new hydrological understanding is revealed through these technqiues?
 - **Representative papers:**
   - [Constraining remote river discharge estimation using reach-scale geomorphology](https://doi.org/10.1029/2020WR027949)
   - [Remotely sensing river greenhouse gas exchange velocity using the SWOT satellite](https://doi.org/10.1029/2022GB007419)
-  - [A Framework for Estimating Global River Discharge From the Surface Water and Ocean Topography Satellite Mission](https://doi.org/10.1029/2021WR031614)
-
-## Transporting 'stuff' downstream
-- How do organic matter, pollutants, and other elements move through drainage systems?
-- How does geomorphology and hydrology modulate downstream water quality?
-- **Representative papers:**
-  - [Lake morphometry and river network controls on evasion of terrestrially sourced headwater CO2](https://doi.org/10.1029/2020GL090068)
-  - [Watershed DOC uptake occurs mostly in lakes in the summer and in rivers in the winter](https://doi.org/10.1002/lno.12306)
-  - [Global controls on DOC reaction versus export in watersheds: A Damkhler number analysis](https://doi.org/10.1029/2021GB007278)
-
-## Mapping the human footprint on global surface waters
-- What do the above techniques reveal about human impacts on hydrology?
-- How do both physical and political actors impact river water quality globally?
-- How far downstream are these impacts felt?
-- **Representative papers:**
-  - In the pipeline...
+  - [A framework for estimating global river discharge from the surface water and ocean topography satellite mission](https://doi.org/10.1029/2021WR031614)

@@ -6,14 +6,22 @@
     <description>Recent content in Tags on Craig Brinkerhoff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>©craigbrinkerhoff</copyright>
-    <lastBuildDate>Sun, 03 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://craigbrinkerhoff.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>©craigbrinkerhoff</copyright><atom:link href="https://craigbrinkerhoff.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
       <link>https://craigbrinkerhoff.netlify.app/tags/cv/</link>
-      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://craigbrinkerhoff.netlify.app/tags/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EastRiverPreserve</title>
+      <link>https://craigbrinkerhoff.netlify.app/tags/eastriverpreserve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/tags/eastriverpreserve/</guid>
       <description></description>
     </item>
     

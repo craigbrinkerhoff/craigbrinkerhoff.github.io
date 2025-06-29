@@ -1,21 +1,21 @@
 ---
 title: About me
 author: Craig Brinkerhoff
-date: "2024-03-19"
+date: "09-20-2024"
 ---
 
 <center>
 
-![](pic.jpg){width=80%}
+![](pic.jpg){width=45%} ![](pic2.jpg){width=45%}
 
 </center>
 
-I'm a computational hydrologist interested in global surface water quantity and quality, approaching global hydrology through the lens of river science, modeling, and remote sensing. See my [research](/research/) page for more!!
+I’m a river scientist and water resources engineer working on problems in [global hydrology](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/WR022i09Sp0006S){target="_blank"}. I'm particularly interested in fluvial transport, hydrologic connectivity, and hydraulic geometry (as revealed through remote sensing, machine learning, and in situ observation). See my [research](/research/) page for more!!
 
-current home: <a href="https://blogs.umass.edu/cjgleason/" target="_blank">fluvial@umass</a>
+current home: <a href="https://yibs.yale.edu/" target="_blank">yibs</a>/<a href="https://raymond-lab.yale.edu/" target="_blank">raymond lab</a>
 
-past home: <a href="https://wp.geog.mcgill.ca/hydrolab/" target="_blank">global hydrolab</a>
+past homes: <a href="https://blogs.umass.edu/cjgleason/" target="_blank">fluvial@umass</a> <a href="https://wp.geog.mcgill.ca/hydrolab/" target="_blank">global hydrolab</a>
 
-personal: <a href="https://scholar.google.com/citations?user=PSOHzbQAAAAJ&hl=en" target="_blank">google scholar</a> <a href="https://orcid.org/0000-0001-6701-4835" target="_blank">orcid</a> <a href="https://github.com/craigbrinkerhoff" target="_blank">github</a> <a href="https://linkedin.com/in/brinkerhoff" target="_blank">linkedin</a>
+personal: <a href="https://scholar.google.com/citations?user=QeBtmYkAAAAJ&hl=en&oi=ao" target="_blank">google scholar</a> <a href="https://orcid.org/0000-0001-6701-4835" target="_blank">orcid</a> <a href="https://github.com/craigbrinkerhoff" target="_blank">github</a> <a href="https://linkedin.com/in/brinkerhoff" target="_blank">linkedin</a>
 
-contact: cbrinkerhoff [at] umass [dot] edu
+contact: craig [dot] brinkerhoff [at] yale [dot] edu

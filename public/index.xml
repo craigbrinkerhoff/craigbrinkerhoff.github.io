@@ -7,11 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©craigbrinkerhoff</copyright>
-    <lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://craigbrinkerhoff.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://craigbrinkerhoff.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>https://craigbrinkerhoff.netlify.app/research/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/research/</guid>
+      <description>2025 ©craigbrinkerhoffDrainage networks are the arteries of the continents, an interconnected network of rivers, streams, lakes, wetlands, and more that drain the land surface and transport water, sediments, and nutrients downstream. Rivers are the landscape’s integrators, and exert a powerful influence on the ecosystems and communities through which they flow.
+To understand the role of rivers in Earth system cycling under global environmental change, I believe river science must take a broad, integrative approach that draws on multiple traditions while remaining strongly “data-driven”.</description>
+    </item>
+    
+    <item>
+      <title>A First Look at River Discharge Estimation From SWOT Satellite Observations</title>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_18/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_18/</guid>
+      <description>DOIhttps://doi.org/10.1029/2024GL114185
+JournalGeophysical Research Letters
+AuthorsAndreadis, Konstantinos M., Coss, Steve P., Durand, Michael, Gleason, Colin J., Simmons, Travis T., Tebaldi, Nikki, Bjerklie, David M., Brinkerhoff, Craig, Dudley, Robert W., Gejadze, Igor, Larnier, Kevin, Malaterre, Pierre-Olivier, Oubanas, Hind, Allen, George H., Bates, Paul D., David, C&#39;edric H., Domeneghetti, Alessio, Elmi, Omid, Marc, Luciana Fenoglio, Prata de Moraes Frasson, Renato, Friedmann, Elisa, Garambois, Pierre-Andr&#39;e, Gehring, Jaclyn, Getirana, Augusto, Hughes, Marissa, Lee, Jonghyun, Matte, Pascal, Minear, J.</description>
+    </item>
+    
+    <item>
+      <title>The Importance of Source Data in River Network Connectivity Modeling: A Review</title>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_16/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_16/</guid>
+      <description>DOIhttps://doi.org/10.1002/lno.12706
+JournalLimnology and Oceanography
+AuthorsBrinkerhoff, C.B.
+AbstractRiver network connectivity (RC) describes the hydrologic exchange of water, nutrients, sediments, and pollutants between the river channel and other ``sites’’ via heterogenous flowpaths along the river corridor. As water moves downstream it carries these constituents, creating a stream-to-ocean continuum of connectivity that regulates global water, carbon, and nutrient cycling. River network connectivity models have developed over many decades, culminating in recent years with network-scale RC models that explicitly simulate the transport and exchange of water and elements from headwaters to coasts, sometimes requiring models to contain tens of millions of river reaches.</description>
+    </item>
+    
+    <item>
+      <title>Toward Modeling Continental-Scale Inland Water Carbon Dioxide Emissions</title>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_17/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_17/</guid>
+      <description>DOIhttps://doi.org/10.1029/2024AV001294
+JournalAGU Advances
+AuthorsSaccardi, Brian, Brinkerhoff, Craig B., Gleason, Colin J., Winnick, Matthew J.
+AbstractAbstract Inland waters emit significant amounts of carbon dioxide (CO2) to the atmosphere; however, the global magnitude and source distribution of inland water CO2 emissions remain uncertain. These fluxes have previously been statistically upscaled by independently estimating dissolved CO2 concentrations and gas exchange velocities to calculate fluxes. This scaling, while robust and defensible, has known limitations in representing carbon source limitations and spatial variability.</description>
+    </item>
+    
+    <item>
+      <title>Ephemeral Stream Water Contributions to United States Drainage Networks</title>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_15/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_15/</guid>
+      <description>DOIhttps://doi.org/10.1126/science.adg9430
+JournalScience
+AuthorsBrinkerhoff, C.B., Gleason, Colin J., Kotchen, Matthew J., Kysar, Douglas A., Raymond, Peter A.
+AbstractEphemeral streams flow only in direct response to precipitation and are ubiquitous landscape features. However, little is known about their influence on downstream rivers. Here, we modeled ephemeral stream water contributions to the contiguous United States network of more than 20 million rivers, lakes, and reservoirs, finding that ephemeral streams contribute, on average, 55% of the discharge exported from regional river systems, as defined by the United States Geological Survey.</description>
+    </item>
+    
     <item>
       <title>Mapping Proglacial Headwater Streams in High Mountain Asia Using PlanetScope Imagery</title>
       <link>https://craigbrinkerhoff.netlify.app/publication/paper_14/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://craigbrinkerhoff.netlify.app/publication/paper_14/</guid>
       <description>DOIhttps://doi.org/10.1016/j.rse.2024.114124
@@ -21,22 +78,13 @@ AbstractHeadwater streams transport nutrients, sediment, and mineral-rich groun
     </item>
     
     <item>
-      <title>Curriculum vitae</title>
-      <link>https://craigbrinkerhoff.netlify.app/cv/</link>
-      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://craigbrinkerhoff.netlify.app/cv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Teaching</title>
       <link>https://craigbrinkerhoff.netlify.app/teaching/</link>
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://craigbrinkerhoff.netlify.app/teaching/</guid>
       <description>Stay tuned for course materials I’ve developed…
-As instructor of recordUMass ENG-FYS 191: Engineering rivers and ecosystemsAs teaching assistantUMass ENG-CEE 470/570: GIS for Engineers</description>
+As instructor of recordUMass 191: Engineering rivers and ecosystemsAs teaching assistantUMass 470/570: GIS for Engineers</description>
     </item>
     
     <item>
@@ -52,15 +100,6 @@ AbstractRivers and lakes are intrinsically connected waterbodies yet they are r
     </item>
     
     <item>
-      <title>Research</title>
-      <link>https://craigbrinkerhoff.netlify.app/research/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://craigbrinkerhoff.netlify.app/research/</guid>
-      <description>2024 ©craigbrinkerhoffDrainage networks are the arteries of the continents, an interconnected network of rivers, streams, lakes, reservoirs, wetlands, and more that drain the land surface and transport water, nutrients, and other ‘stuff’ downstream or to the atmosphere. Sustainable management of global freshwater resources requires not only a knowledge of hydroclimatic processes across a range of scales, but also the tools (models, computational frameworks, and river science theories) to explore potential solutions.</description>
-    </item>
-    
-    <item>
       <title>A Framework for Estimating Global River Discharge From the Surface Water and Ocean Topography Satellite Mission</title>
       <link>https://craigbrinkerhoff.netlify.app/publication/paper_12/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
@@ -73,10 +112,10 @@ AuthorsDurand, M. T., Gleason, C.J., Pavelsky, T. M., Frasson, R. P. M., Turmon
     
     <item>
       <title>Inversion of River Discharge from Remotely Sensed River Widths: A Critical Assessment at Three-Thousand Global River Gauges</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_10/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_11/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_10/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_11/</guid>
       <description>DOIhttps://doi.org/10.1016/j.rse.2023.113489
 JournalRemote Sensing of Environment
 AuthorsLin, P., Feng, D., Gleason, C.J., Pan, M., Brinkerhoff, C.B., Yang, X., Beck, H.E., Frasson, R. P. M.
@@ -85,10 +124,10 @@ AbstractAccurately estimating river discharge from satellite-derived river hydr
     
     <item>
       <title>Watershed DOC Uptake Occurs Mostly in Lakes in the Summer and in Rivers in the Winter</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_11/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_10/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_11/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_10/</guid>
       <description>DOIhttps://doi.org/10.1002/lno.12306
 JournalLimnology and Oceanography
 AuthorsMaavara, T.M., Brinkerhoff, C.B., Hosen, J.D., Aho, K.S., Logozzo, L.A., Saiers, J.E., Stubbins, A., Raymond, P.A.
@@ -109,10 +148,10 @@ AbstractTwo decades of research has shown that the global river network emits s
     
     <item>
       <title>Global Controls on DOC Reaction Versus Export in Watersheds: A Damk&#34;ohler Number Analysis</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_7/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_8/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_7/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_8/</guid>
       <description>DOIhttps://doi.org/10.1029/2021GB007278
 JournalGlobal Biogeochemical Cycles
 AuthorsLiu, S., Maavara, T.M., Brinkerhoff, C.B., Raymond, P.A.
@@ -121,10 +160,10 @@ AbstractThe relative capacity for watersheds to eliminate or export reactive co
     
     <item>
       <title>The Importance of Hydrology in Routing Terrestrial Carbon to the Atmosphere via Global Streams and Rivers</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_8/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_7/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_8/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_7/</guid>
       <description>DOIhttps://doi.org/10.1073/pnas.2106322119
 JournalProceedings of the National Academy of Sciences
 AuthorsLiu, S., Kuhn, C., Amatulli, G., Aho, K.S., Butman, D.E., Allen, G.H., Lin, P., Pan, M., Yamazaki, D., Brinkerhoff, C.B., Gleason, C.J., Xia, X., Raymond, P.A.
@@ -132,42 +171,23 @@ AbstractThe magnitude of stream and river carbon dioxide (CO2) emission is affe
     </item>
     
     <item>
-      <title>BIKER</title>
-      <link>https://craigbrinkerhoff.netlify.app/software/biker/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://craigbrinkerhoff.netlify.app/software/biker/</guid>
-      <description>BIKER (“Bayesian Inference of the K600 Evasion Rate”) enables inference of the normalized riverine gas exchange velocity from measurements of river surface width and height/slope. It does so using Bayesian inference and a Hamiltonian Monte Carlo sampler to generate a posterior distribution for a gas exchange model. BIKER was developed in the context of the upcoming NASA/CNES SWOT mission.</description>
-    </item>
-    
-    <item>
-      <title>SARNr</title>
-      <link>https://craigbrinkerhoff.netlify.app/software/sarnr/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://craigbrinkerhoff.netlify.app/software/sarnr/</guid>
-      <description>SARNr is an R implementation of a modified version of the SARN algorithm. The original SARN algorithm is an Arcpy script developed by Xin Lu and Kang Yang at Nanjing University to map actively flowing drainage networks by combining Sentinel-2 water masks and a DEM-based river network. See the below paper for more.
-Lu, X., Yang, K., Lu, Y., Gleason, C.J., Smith, L.C., &amp;amp; Li, M. (2020). Small Arctic rivers mapped from Sentinel-2 satellite imagery and ArcticDEM.</description>
-    </item>
-    
-    <item>
       <title>Does Photomineralization of Dissolved Organics Matter in Temperate Rivers</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_5/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_6/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_5/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_6/</guid>
       <description>DOIhttps://doi.org/10.1029/2021JG006402
 JournalJournal of Geophysical Research: Biogeosciences
-AuthorsMaavara, T., Logozzo, L.A., Stubbins, A., Aho, K.S., Brinkerhoff, C.B., Hosen, J.D., Raymond, P.A.
+AuthorsMaavara, T.M., Logozzo, L.A., Stubbins, A., Aho, K.S., Brinkerhoff, C.B., Hosen, J.D., Raymond, P.A.
 AbstractSunlight can oxidize dissolved organic carbon (DOC) to dissolved inorganic carbon (DIC) in freshwaters. The importance of complete photooxidation, or photomineralization, as a sink for DOC remains unclear in temperate rivers, as most estimates are restricted to lakes, high latitude rivers, and coastal river plumes. In this study, we construct a model representing over 75,000 river reaches in the Connecticut River Watershed (CRW), USA, to calculate spectrally resolved photomineralization.</description>
     </item>
     
     <item>
       <title>Exploring the Factors Controlling the Error Characteristics of the Surface Water and Ocean Topography Mission Discharge Estimates</title>
-      <link>https://craigbrinkerhoff.netlify.app/publication/paper_6/</link>
+      <link>https://craigbrinkerhoff.netlify.app/publication/paper_5/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_6/</guid>
+      <guid>https://craigbrinkerhoff.netlify.app/publication/paper_5/</guid>
       <description>DOIhttps://doi.org/10.1029/2020WR028519
 JournalWater Resources Research
 AuthorsFrasson, R. P. M., Durand, M.T., Larnier, K., Gleason, C.J., Andreadis, K.M., Hagemann, M. W., Dudley, R., Bjerklie, D., Oubanas, H., Garambois, P.-A., Malaterre, P.O., Lin, P., Pavelsky, T. M., Monnier, J., Brinkerhoff, C.B., David, C.H.
@@ -195,7 +215,7 @@ AbstractLakes are central components of the inland water system distinct from, 
       <description>DOIhttps://doi.org/10.1029/2020WR027949
 JournalWater Resources Research
 AuthorsBrinkerhoff, C.B., Gleason, C. J., Feng, D., Lin, P.
-AbstractRecent advances in remote sensing and the upcoming launch of the joint NASA/CNES/CSA/UKSA Surface Water and Ocean Topography (SWOT) satellite point toward improved river discharge estimates in ungauged basins. Existing discharge methods rely on ‘prior river knowledge’ to infer parameters not directly measured from space. Here, we show that discharge estimation is improved by classifying and parameterizing rivers based on their unique geomorphology and hydraulics.</description>
+AbstractRecent advances in remote sensing and the upcoming launch of the joint NASA/CNES/CSA/UKSA Surface Water and Ocean Topography (SWOT) satellite point toward improved river discharge estimates in ungauged basins. Existing discharge methods rely on prior river knowledge&#39;&#39; to infer parameters not directly measured from space. Here, we show that discharge estimation is improved by classifying and parameterizing rivers based on their unique geomorphology and hydraulics.</description>
     </item>
     
     <item>
@@ -208,17 +228,6 @@ AbstractRecent advances in remote sensing and the upcoming launch of the joint 
 JournalWater Resources Research
 AuthorsAndreadis, K.M., Brinkerhoff, C. B., Gleason, C. J.
 AbstractThe Surface Water Ocean Topography (SWOT) satellite mission expected to launch in 2021 will offer a unique opportunity to map river discharge at an unprecedented spatial resolution globally from observations of water surface elevation, width, and slope. Because river discharge will not be directly observed from SWOT, a number of algorithms of varying complexity have been developed to estimate discharge from SWOT observables.</description>
-    </item>
-    
-    <item>
-      <title>geoBAMr</title>
-      <link>https://craigbrinkerhoff.netlify.app/software/geobamr/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://craigbrinkerhoff.netlify.app/software/geobamr/</guid>
-      <description>geoBAMr An update to bamr that uses more geomorphically-informed prior knowledge for discharge inversion.
-From bamr: “The bamr package facilitates Bayesian AMHG + Manning discharge estimation using stream slope, width, and partial cross-section area. It includes functions to preprocess and visualize data, perform Bayesian inference using Hamiltonian Monte Carlo (via models pre-written in the Stan language), and analyze the results.”
-geoBAMr expands upon this project by defining prior river knowledge using river classification frameworks.</description>
     </item>
     
     <item>
@@ -240,6 +249,24 @@ AbstractAt-many-stations hydraulic geometry (AMHG), while useful for estimating
       
       <guid>https://craigbrinkerhoff.netlify.app/archives/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Curriculum vitae</title>
+      <link>https://craigbrinkerhoff.netlify.app/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>East River Preserve Experiment</title>
+      <link>https://craigbrinkerhoff.netlify.app/qr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://craigbrinkerhoff.netlify.app/qr/</guid>
+      <description></description>
     </item>
     
   </channel>

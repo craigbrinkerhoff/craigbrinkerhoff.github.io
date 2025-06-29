@@ -1,9 +1,0 @@
----
-title: geoBAMr
-date: 2020-01-01
----
-[`geoBAMr`](https://github.com/craigbrinkerhoff/geoBAMr/) An update to [`bamr`](https://github.com/markwh/bamr) that uses more geomorphically-informed prior knowledge for discharge inversion.
-
-From `bamr`: "The bamr package facilitates Bayesian AMHG + Manning discharge estimation using stream slope, width, and partial cross-section area. It includes functions to preprocess and visualize data, perform Bayesian inference using Hamiltonian Monte Carlo (via models pre-written in the Stan language), and analyze the results."
-
-`geoBAMr` expands upon this project by defining prior river knowledge using river classification frameworks.  Internal to `geoBAMr`, geomorphic river types are assigned to rivers using stream widths, which in turn determine which priors are fed into the BAM algorithm.  `geoBAMr` uses the identical Bayesian model as used in `bamr`.
