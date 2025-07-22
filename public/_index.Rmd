@@ -6,7 +6,7 @@ date: "09-20-2024"
 
 <center>
 
-![](pic.jpg){width=45%} ![](pic2.jpg){width=45%}
+![](pic.jpg){width=45%} ![](pic3.jpg){width=45%}
 
 </center>
 

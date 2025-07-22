@@ -10,7 +10,7 @@ output: html_document
 </center>
 Drainage networks are the arteries of the continents, an interconnected network of rivers, streams, lakes, wetlands, and more that drain the land surface and transport water, sediments, and nutrients downstream. Rivers are the landscape's integrators, and exert a powerful influence on the ecosystems and communities through which they flow.
 
-To understand the role of rivers in Earth system cycling under global environmental change, I believe river science must take a broad, integrative approach that draws on multiple traditions while remaining strongly "data-driven". To do this, I develop geospatial machine learning and remote sensing methods while working directly with field and policy researchers throughout the pipeline. I have particular interests in fluvial transport, hydrological connectivity, hydraulic geometry, headwater systems, and global observational monitoring.
+To understand the role of rivers in Earth system cycling under global environmental change, I believe river science must take a broad, integrative approach that draws on multiple traditions while remaining strongly "data-driven". To do this, I develop geospatial machine learning and remote sensing methods while working directly with field and policy researchers throughout the pipeline. I have particular interests in fluvial transport, hydrological connectivity, hydraulic geometry, headwater systems, and global in situ monitoring.
 
 -------------------------------
 

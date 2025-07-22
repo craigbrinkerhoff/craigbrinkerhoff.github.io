@@ -6,11 +6,11 @@ date: "09-20-2024"
 
 <center>
 
-![](pic.jpg){width=45%} ![](pic2.jpg){width=45%}
+![](pic.jpg){width=45%} ![](pic3.jpg){width=45%}
 
 </center>
 
-I’m a river scientist and water resources engineer working on problems in [global hydrology](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/WR022i09Sp0006S){target="_blank"}. I'm particularly interested in fluvial transport, hydrologic connectivity, and hydraulic geometry (as revealed through remote sensing, machine learning, and in situ observation). See my [research](/research/) page for more!!
+I’m a river scientist, hydrologist, and water resources engineer working on problems in [global hydrology](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/WR022i09Sp0006S){target="_blank"}. I'm particularly interested in fluvial transport, hydrologic connectivity, and hydraulic geometry (as revealed through remote sensing, machine learning, and in situ monitoring). See my [research](/research/) page for more!!
 
 current home: <a href="https://yibs.yale.edu/" target="_blank">yibs</a>/<a href="https://raymond-lab.yale.edu/" target="_blank">raymond lab</a>
 
