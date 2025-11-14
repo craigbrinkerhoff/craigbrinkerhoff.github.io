@@ -1,0 +1,23 @@
+```{r setup, include=FALSE} 
+knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
+```
+```{r, echo=FALSE}
+source('utils.R')
+paper <- bibtexScraper(20)
+```
+
+---
+title: "`r paper$title`"
+date: "`r paper$year`"
+---
+## DOI
+`r paste0('https://doi.org/', paper$doi)`
+
+## Journal
+`r paper$journal`
+
+## Authors 
+`r paper$authors`
+
+## Abstract
+`r paper$abstract`
